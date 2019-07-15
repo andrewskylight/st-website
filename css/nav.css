@@ -1,0 +1,47 @@
+.navbar-header {
+  height: 80px;
+}
+
+.navbar-toggle {
+  padding: 20px;
+}
+
+.nav {
+  text-transform: uppercase;
+}
+
+.navbar {
+  min-height: 80px;
+  background-color: white;
+  border-bottom: 3px solid #5bc0de;
+}
+
+.navbar-brand img {
+  max-height: 57px;
+}
+
+.navbar-nav>li>a {
+  line-height: 56px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.navbar-nav>li>a:hover {
+  background-color: white;
+}
+
+.navbar-nav>li>a img {
+  max-width: 75%;
+}
+
+.cta-nav {
+  color: #ffffff;
+  background-color: #5bc0de;
+  border-color: #46b8da;
+}
+
+.cta-nav:hover {
+  color: #ffffff;
+  background-color: #31b0d5 !important;
+  border-color: #269abc !important;
+}

@@ -1,0 +1,307 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import 'nav.css';
+@import 'sidebar.css';
+@import 'pricing.css';
+
+.carousel-fade .carousel-inner .item {
+  -webkit-transition-property: opacity;
+  transition-property: opacity;
+}
+.carousel-fade .carousel-inner .item,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  opacity: 0;
+}
+.carousel-fade .carousel-inner .active,
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+  opacity: 1;
+}
+.carousel-fade .carousel-inner .next,
+.carousel-fade .carousel-inner .prev,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  left: 0;
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
+}
+.carousel-fade .carousel-control {
+  z-index: 2;
+}
+
+.carousel {
+  max-height: 700px;
+  overflow: hidden;
+
+  
+}
+
+
+.pad-top {
+  padding-top: 2em;
+}
+
+.navbar-toggle > * {
+  background-color: #3d9fed;
+}
+
+body, html {
+  height: 100%;
+}
+
+body {
+  font-weight: 500;
+  margin-top: 80px;
+}
+
+p, li {
+  font-size: 1.2em;
+}
+
+.land-tours li{
+	font-size: 1.2em;
+}
+
+.table p, li {
+  font-size: 1.0em;
+}
+
+.small-text {
+  font-size: 1.1em;
+}
+
+.vertical-spacing {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.table {
+  font-size: 1.0em;
+}
+
+.table thead tr th {
+  text-align: center;
+}
+
+.table .thead-inverse th {
+  color: #fff;
+  background-color: #373a3c;
+  border: none;
+}
+
+.content-single {
+  padding-bottom: 80px;
+}
+
+.content-inverse {
+  background-color: #3d9fed;
+  color: white;
+}
+
+.content-center-wrapper {
+  position: relative;
+}
+
+.content-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.text-border {
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#hero {
+  min-height: 70%;
+  background-image: url('../img/mainbg.jpg');
+  background-size: cover;
+}
+
+#hero-content {
+  text-align: center;
+}
+
+#hero-content h1 {
+  font-size: 3.8em;
+}
+
+#hero-content p {
+  margin: 0; padding: 0;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+#kayak {
+  min-height: 70%;
+  background-image: url('../img/kayakbg.jpg');
+  background-size: cover;
+}
+
+#kayak-content {
+  text-align: center;
+}
+
+#kayak-content h1 {
+  font-size: 3.8em;
+}
+
+#kayak-content p {
+  margin: 0; padding: 0;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.content-header {
+  text-align: center;
+  padding: 3em 0;
+}
+
+.content-header h1 {
+  text-transform: uppercase;
+}
+
+.content-body-header {
+  margin-top: 0; padding-top: 0;
+}
+
+.testimonial .panel-heading, .testimonial .panel-footer {
+  text-align: center;
+}
+
+.testimonial .panel-footer {
+  text-transform: uppercase;
+}
+
+.testimonial p {
+  margin: 0; padding: 0;
+}
+
+.testimonial-author {
+  font-size: 0.8em;
+  text-transform: uppercase;
+  margin-top: 0.8em;
+}
+
+.image-container-square {
+  background-color: #3d9fed;
+  background-size: cover;
+  padding-bottom: 100%;
+}
+
+.image-container-rectangle {
+  background-color: #3d9fed;
+  background-size: cover;
+  padding-bottom: 48%;
+}
+
+.image-container-content {
+  color: white;
+  text-align: center;
+  width: 80%;
+}
+
+.image-container-content h2, .image-container-content p {
+  font-weight: bold;
+  text-shadow: 1.5px 1.5px #050505;
+}
+
+.cienfuegos {
+  background-image: url('../img/cienfuegos.jpg');
+}
+
+.cayolargo {
+  background-image: url('../img/cayolargo.jpg');
+}
+
+.trinidad {
+  background-image: url('../img/trinidad.jpg');
+}
+
+.notredam {
+	background-image: url('../img/notre-dam.jpg');
+}
+
+.labyrinth {
+	background-image: url('../img/labyrinth.jpg');
+}
+
+.stingray {
+	background-image: url('../img/cayman/stingray.jpg');
+}
+
+
+
+.slideshow {
+  background-image: url('../img/slideshow.jpg');
+}
+
+.diver {
+  background-image: url('../img/diver.jpg');
+}
+
+.boat {
+  background-image: url('../img/boat.jpg');
+}
+
+.partner-logos {
+  text-align:center;
+}
+
+.partner-logos img {
+  display: inline-block;
+  margin: 0 50px !important;
+  margin-bottom: 20px !important;
+
+  max-height: 35px;
+}
+
+#contact {
+  margin-top: 7em;
+  min-height: 100%;
+}
+
+#other-contact {
+  margin-top: 0.5em;
+}
+
+#other-contact p {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 0.2em;
+}
+
+#contact a, #contact a:hover {
+  color: white !important;
+  text-decoration: underline !important;
+}
+
+.booking-option .panel-heading {
+  text-align: center;
+}
+
+.booking-option-pricing {
+  text-align: center;
+}
+
+@media (max-width: 750px) {
+  #contact {
+    margin-top: 120px;
+    height: auto;
+  }
+  #contact .content-center {
+    position: relative;
+    top: auto;
+    left: auto;
+    transform: none;
+  }
+
+  .mobile-vertical-spacing {
+    margin-top: 20px;
+  }
+}
+
+.schedule {
+	padding: 80px 40px;
+}

@@ -1,0 +1,3 @@
+Parse files to be updated into "nav" subfolder
+update "newNav.txt" with new "nav" tags (including nav tags themselves)
+run the first macro in EXCEL workbook
