@@ -55,7 +55,10 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav navbar-right">
-                            <li><a href="index.htm#tour-bahamas-diving">Bahamas</a></li>
+                            <li><a href="index.htm#tour-bahamas-diving">Tour</a></li>
+                            <li><a href="index.htm#yacht">Vessel</a></li>
+                            
+<!--
                             <li class="dropdown">
 									<a href="index.htm" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Fleet<span class="caret"></span></a> 
 
@@ -64,17 +67,21 @@
 										<li><a href="fleet-vision.htm">Vision III</a></li>
 									</ul>
 							</li>
+-->
 							<li><a href="photos.htm">Photos</a></li>
 				            <li><a href="http:\\schedule.sailtomorrow.com" target="_blank">Schedule</a></li>
 				            <li><a href="faq.htm">FAQ</a></li>
 							<li><a class="cta-nav" href="index.htm#contact">Contact</a></li>
+							
+<!--
 							<li class="dropdown">
                                 <a href="index.htm" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Language<span class="caret"></span></a>
                                 <ul class="dropdown-menu">
                                     <li><a href="ru-index.htm"><img src="img/ru.png"></a></li>
-         			                <!--<li><a href="de-index.htm"><img src="img/de.png"></a></li>-->                                    
+         			                
                                 </ul>
 							</li>
+-->
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container -->
@@ -302,8 +309,10 @@
                 <div class="row">
                    
                     <div class="col-md-6 col-md-offset-3">
-                       <h3>Teaser Video!</h3>    
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/EDkw62SM674?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                       <h3>Teaser Video!</h3>
+                            <div class="videoWrapper">
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/EDkw62SM674?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
                     </div>
                 </div>
 	      </div>
@@ -311,46 +320,32 @@
     
     <section id="packages" class="content sidebar-content-section">
       <div class="content-header">
-        <h1>Booking Options</h1>
+        <h1>Tour Details</h1>
         <div class="content-header-description container">
-          <p>We are proud to offer a variety of affordable options. Prices for base packages are listed below. Custom packages are offered on a prorated and negotiated basis We provide discounts on select occassions to large groups. Contact us to learn more.</p>
+<!--          <p>We are proud to offer a variety of affordable options. Prices for base packages are listed below. Custom packages are offered on a prorated and negotiated basis We provide discounts on select occassions to large groups. Contact us to learn more.</p>-->
         </div>
       </div>
-      <div id="sailing" class="content-body container">
-        <div id = "diving" class="row">
-          <div class="col-sm-12">
-            <h3><center>Diving Tours</center></h3>
-            <hr>
-            <div class='table-responsive'>
-              <table class="table table-bordered">
-                <thead>
-                  <tr>
-                    <th style="width:14%;"></th>
-                    <th style="width:43%;">Bahama Diving</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>Duration</td>
-                    <td>7 days, 6 nights, Liveaboard</td>
-                  </tr>
-                  <tr>
-                    <td>Embarkation <br>(Loading of passengers)</td>
-                    <td>Saturday 11:00, Nassau, Bahamas</td>
-                  </tr>
-                  <tr>
-                    <td>Debarkation <br>(Leaving of ship)</td>
-                    <td>Friday 08:00, Nassau, Bahamas</td>
-                  </tr>
-                  <tr>
-                    <td>Price <a href="fleet-phoenix.htm" target="_blank">Phoenix</a></td>
-                    <td>1500 USD</td>
-                  </tr>
-
-                  <tr>
-                    <td>Included</td>
-                    <td colspan="2">
-                      <ul>
+      <div id="diving" class="content-body container">
+         
+          <div class="row">
+            <div class="col-md-6">
+                  <h3>Duration</h3>
+                  <p>7 days, 6 nights, Liveaboard</p>
+                  
+                  <h3>Embarkation</h3>(Loading of passengers)
+                  <p>Saturday 11:00, Nassau, Bahamas</p>
+                  
+                  <h3>Debarkation</h3>(Leaving of ship)
+                  <p>Friday 08:00, Nassau, Bahamas</p>
+                  
+                  <h3>Price</h3>
+                  <p>From $1497 USD see <a href="http:\\schedule.sailtomorrow.com" target="_blank">schedule</a> for details</p>
+              </div>
+              
+              <div class="col-md-6">
+                  <h3 class="text-success">Included</h3>
+                  
+                     <ul>
                         <li>VAT</li>
                         <li>Food, snacks, coffee, tea, juice</li>
                         <li>Skipper &amp; mariner on board</li>
@@ -358,39 +353,25 @@
                         <li><strong>Divemaster on board</strong></li>
                         <li><strong>Dives (no extra charge for dives per day)</strong></li>
                         <li><strong>Tanks, weights, and belts</strong></li>
-                      </ul>
-                    </td>
-                  </tr>
-                  <tr>
-                  	<td><strong>Not</strong> Included</td>
-                  	<td colspan="2">
-                  		<ul>
-                            <li>Flights</li>
-                            <li>Gratuities</li>
-                            <li>Transfers</li>
-                  			<li>Port fee 135 USD per person</li>
-                  			<li>Rental Equipment</li>
-            			</ul>
-                  	</td>
-                  </tr>
+                     </ul>
                   
-                </tbody>
-              </table>
-              <p>Tours of <em>different length</em> are available. Inquire below.</p>
-              <p>Rental equipment available. Contact Us for more details.</p>
-            </div>
+                  <h3 class="text-primary">Not Included</h3>
+                  
+                      <ul>
+                        <li>Flights</li>
+                        <li>Gratuities</li>
+                        <li>Transfers</li>
+                        <li>Port fee 135 USD per person</li>
+                        <li>Rental Equipment</li>
+                      </ul>
+              </div>
           </div>
-        </div>
-        <div class="row">
-          <div class="col-sm-12">
-          </div>
-        </div>
       </div>
     </section>
-
+      
     <section id="yacht" class="content sidebar-content-section">
       <div class="content-header">
-        <h2>Your Yacht</h2>
+        <h2>The Yacht</h2>
         <div class="content-header-description container">
           <p>Experience a different kind of liveaboard on our beautiful yacht, naturally sailing on the sea and breathing the fresh air.</p>
         </div>
@@ -458,11 +439,10 @@
         <a href="https://www.liveaboard.com/diving/bahamas/phoenix"><img src="img/partners/liveaboard.png"></a>        
         <a href="https://divebooker.com/phoenix-haz307"><img src="img/partners/divebooker.png"></a>
         <a href="https://travel.padi.com/liveaboard/bahamas/phoenix/"><img src="img/partners/padi-logo.svg"></a>
-<!--        <a href="http://www.filovent.com/produit-detail-72648-.html?datedep=29/10/2015&dateari=05/11/2015&date_debarquement=&mregion=Cuba&checkin=14:00&checkout=09:00&base_dep=&prix_bateau="><img src="img/partners/filovent.png"></a>-->
         <a href="https://www.responsibletravel.com/holiday/22245/bahamas-yacht-holidays"><img src="img/partners/responsibletravel.png"></a>
-<!--        <a href="https://oceantrips.com/boats/boat/193"><img src="img/partners/oceantrips.png"></a>-->
-<!--        <a href="http://www.diveandcruise.com/boat/vision-iii"><img src="img/partners/diveAndCruise.png"></a>-->
-<!--        <a href="https://www.theglobesailor.com/?utm_source=globesailor_partner&utm_medium=badge&utm_campaign=globesailor_badge" target="_blank" title="GlobeSailor"><img src="https://www.theglobesailor.com/img/misc/official_gs_partner_135x40_en.png" border="0" width="135" height="40" alt="GlobeSailor" /></a>-->
+        <!--        <a href="https://oceantrips.com/boats/boat/193"><img src="img/partners/oceantrips.png"></a>-->
+        <!--        <a href="http://www.diveandcruise.com/boat/vision-iii"><img src="img/partners/diveAndCruise.png"></a>-->
+        <!--        <a href="https://www.theglobesailor.com/?utm_source=globesailor_partner&utm_medium=badge&utm_campaign=globesailor_badge" target="_blank" title="GlobeSailor"><img src="https://www.theglobesailor.com/img/misc/official_gs_partner_135x40_en.png" border="0" width="135" height="40" alt="GlobeSailor" /></a>-->
       </div>
     </section>
 
@@ -500,16 +480,17 @@
                   <p>Phone us <a href="#">1 (877) 792 2780</a></p>
                   <p>Skype call <a href="#">sailtomorrow</a></p>
                   <p>E-mail <a href="#">mila@sailtomorrow.com</a></p>
-                  <p><img src="./img/agent/Mila.jpg" alt="Mila" class="img-circle"></p>
+                  <p><img src="./img/agent/Mila.jpg" alt="Mila" class="img-circle img-responsive"></p>
                 </div>
               </div>
             </div>
             <hr>
+            
             <div class="row">
               <div class="col-md-12">
                 <div class="clearfix">
                   <p class="pull-left">
-                    &copy; Sail Tomorrow Corp. 2013-2017. All Rights Reserved.
+                    &copy; Sail Tomorrow Corp. 2013-2019. All Rights Reserved.
                   </p>
                   <p class="pull-right">
                     <a href="termsofservice.htm">Terms of Service</a> |
