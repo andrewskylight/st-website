@@ -1,0 +1,16 @@
+    <section id="partners" class="content sidebar-content-section">
+        <div class="content-header">
+          <h2>Our Partners</h2>
+          <div class="content-header-description container">
+          </div>
+        </div>
+        <div class="partner-logos content-body container">
+          <a href="https://www.liveaboard.com/diving/bahamas/phoenix"><img src="img/partners/liveaboard.png"></a>        
+          <a href="https://divebooker.com/phoenix-haz307"><img src="img/partners/divebooker.png"></a>
+          <a href="https://travel.padi.com/liveaboard/bahamas/phoenix/"><img src="img/partners/padi-logo.svg"></a>
+          <a href="https://www.responsibletravel.com/holiday/22245/bahamas-yacht-holidays"><img src="img/partners/responsibletravel.png"></a>
+          <!--        <a href="https://oceantrips.com/boats/boat/193"><img src="img/partners/oceantrips.png"></a>-->
+          <!--        <a href="http://www.diveandcruise.com/boat/vision-iii"><img src="img/partners/diveAndCruise.png"></a>-->
+          <!--        <a href="https://www.theglobesailor.com/?utm_source=globesailor_partner&utm_medium=badge&utm_campaign=globesailor_badge" target="_blank" title="GlobeSailor"><img src="https://www.theglobesailor.com/img/misc/official_gs_partner_135x40_en.png" border="0" width="135" height="40" alt="GlobeSailor" /></a>-->
+        </div>
+      </section>
