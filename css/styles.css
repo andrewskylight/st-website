@@ -118,15 +118,44 @@ p, li {
   min-height: 70%;
   background-image: url('../img/mainbg.jpg');
   background-size: cover;
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
 }
 
 #hero-content {
-  text-align: center;
+  text-align: left;
 }
 
-#hero-content h1 {
-  font-size: 3.8em;
+@media screen and (min-width: 577px){
+  #hero-content h1 {
+    font-size: 1.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+  }
+  
+  #hero-content h2 {
+    font-size: 1.0em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
 }
+
+
+
+@media screen and (max-width: 576px){
+  #hero-content h1 {
+    font-size: 4em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+  }
+  
+  #hero-content h2 {
+    font-size: 2.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
+}
+
 
 #hero-content p {
   margin: 0; padding: 0;
