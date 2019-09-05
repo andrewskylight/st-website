@@ -1,4 +1,4 @@
-﻿<nav class="navbar navbar-fixed-top">
+﻿    <nav class="navbar navbar-fixed-top">
       <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -8,7 +8,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="../index.htm">
+          <a class="navbar-brand" href="../ru-index.htm">
             <img src="img/logo.png" alt="Sail Tomorrow">
           </a>
         </div>
@@ -16,45 +16,25 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-
+              <li><a href="ru-tour-bahamas-diving.htm">Тур</a></li>
               <li class="dropdown">
-                  <a href="index.htm" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Tours <span class="caret"></span></a> 
-
-                  <ul class="dropdown-menu">
-                                        <li><a href="tour-bahamas-diving.htm">Bahamas</a></li>
-                                        <li role="separator" class="divider"></li>
-                                        <li><a href="tour-cuba-diving.htm">Cuba - Diving</a></li>
-                                        <li><a href="tour-cuba-sailing.htm">Cuba - Saling</a></li>
-                  </ul>
-              </li>
-              <li class="dropdown">
-                  <a href="index.htm" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Fleet<span class="caret"></span></a> 
+                  <a href="ru-index.htm" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Флот<span class="caret"></span></a> 
 
                   <ul class="dropdown-menu">
-                    <li><a href="fleet-phoenix.htm">Phoenix</a></li>
-                    <li><a href="fleet-vision.htm">Vision III</a></li>
+                    <li><a href="ru-fleet-phoenix.htm">Phoenix</a></li>
                   </ul>
               </li>
-              <li><a href="photos.htm">Photos</a></li>
+              <li><a href="ru-photos.htm">Фото</a></li>
+              <li><a href="http:\\schedule.sailtomorrow.com" target="_blank">Расписание</a></li>      
+              <li><a class="cta-nav" href="ru-index.htm#contact">Связаться</a></li>
               <li class="dropdown">
-                  <a href="index.htm" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Schedule<span class="caret"></span></a> 
-
-                  <ul class="dropdown-menu">
-                    <li><a href="faq.htm">F.A.Q.</a></li>
-                    <li><a href="yacht-management.htm">Yacht Management</a></li>
-                    <li><a href="http:\\schedule.sailtomorrow.com" target="_blank">Schedule</a></li>      
-                  </ul>
-              </li>
-              <li><a class="cta-nav" href="index.htm#contact">Contact</a></li>
-              <li class="dropdown">
-                                <a href="index.htm" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Language<span class="caret"></span></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="ru-index.htm"><img src="img/ru.png"></a></li>
-                              <!--<li><a href="de-index.htm"><img src="img/de.png"></a></li>-->                                    
-                                </ul>
+                <a href="index.htm" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Язык<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                    <li><a href="index.htm"><img src="img/en.png"></a></li>
+                </ul>
               </li>
 
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container -->
-</nav>
+    </nav>

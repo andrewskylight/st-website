@@ -1,0 +1,10 @@
+    <style>
+      /* https://css-tricks.com/hash-tag-links-padding/ */
+      .sidebar-content-section:before { 
+        display: block; 
+        content: " "; 
+        margin-top: -180px; 
+        height: 180px; 
+        visibility: hidden; 
+      }
+    </style>
