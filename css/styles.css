@@ -55,7 +55,7 @@ body {
   margin-top: 80px;
 }
 
-p, li {
+p, li , tr, td{
   font-size: 1.2em;
 }
 
