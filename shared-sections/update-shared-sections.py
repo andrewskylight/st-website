@@ -133,8 +133,3 @@ def main():
   sourceFilePath = getSourceFile(workingDir)
   updateTagListWithContentFromSourceFile(sourceFilePath)
   updateFilesWithNewTags(workingDir)
-
-
-
-
-
