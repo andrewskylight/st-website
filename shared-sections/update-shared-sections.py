@@ -2,7 +2,7 @@ import os
 from bs4 import BeautifulSoup
 
 #settings
-isDebug = True
+isDebug = False
 sourceFileName = 'index'
 tagsToUpdate = ['nav','footer']        #contains a list of tags to be updated; contents is handled via object
 
