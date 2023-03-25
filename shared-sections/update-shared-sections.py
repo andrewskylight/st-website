@@ -8,18 +8,18 @@ tagsToUpdate = ['nav','footer']        #contains a list of tags to be updated; c
 
 #global vars
 tagsToUpdateList = []
-sourceFilePath
+sourceFilePath = ""
 workingDirectory = ""
 
 class Tag:
-    def __init__(self, tag, contents):
+    def __init__(self, tag, tagBody):
       self.tag = tag
-      self.contents = contents
+      self.tagBody = tagBody
 
 def getWorkingDir():
     global workingDirectory
     
-    if getWorkingDir != "":
+    if workingDirectory != "":
        return workingDirectory
   
   #debug purposes
@@ -37,7 +37,8 @@ def getWorkingDir():
     
 def initTags():
    for tagToUpdate in tagsToUpdate:
-      tagsToUpdate.add(Tag(tagToUpdate,""))
+      newTag = Tag(tagToUpdate,"")
+      tagsToUpdateList.append(newTag)
       
 
 def getFilesInDir(dirPath):
@@ -49,6 +50,10 @@ def isValidHTMLFile(filePath: str) -> bool:
 def getFileNameForDebugOutput(filePath: str) -> str:
    fileName = getFileNameFromFilePath(filePath)
    debugFolderPath =  os.path.join(getWorkingDir(),"debug-tagUpdate-output")
+
+   if not os.path.exists(debugFolderPath):
+    os.makedirs(debugFolderPath)
+
    return os.path.join(debugFolderPath, fileName)
 
 
@@ -60,25 +65,26 @@ def getFileNameWithoutExtension(filePath: str) -> str:
 
 def getSourceFile(workingDir: str) -> str:
   global sourceFileName
+  
   for fileName in getFilesInDir(workingDir):
-     if getFileNameWithoutExtension(fileName):
-        return fileName
+     if getFileNameWithoutExtension(fileName) == sourceFileName:
+        return os.path.join(getWorkingDir(),fileName)
      
-def getTagContentFromSourceFile(sourceFile: str, tag: str) -> str:
-  file = open(sourceFile, 'r', encoding="utf-8")
-  fileContents = file.read()
-  htmlSoup = BeautifulSoup(fileContents, 'html.parser')
-  return htmlSoup.find(tag).contents
-
 def updateTagListWithContentFromSourceFile(sourceFilePath: str):
-   global tagsToUpdateList
+  global tagsToUpdateList
 
-   if len(tagsToUpdate) == 0:
-      print('no tags listed for update')
-      return
+  if len(tagsToUpdate) == 0:
+    print('no tags listed for update')
+    return
 
-   for tag in tagsToUpdateList:
-      tag.content = getTagContentFromSourceFile(sourceFilePath, tag.tag)
+  file = open(sourceFilePath, 'r', encoding="utf-8")
+  fileContents = file.read()
+
+  for tag in tagsToUpdateList:
+    htmlSoup = BeautifulSoup(fileContents, 'html.parser')
+    tag.contents = htmlSoup.find(tag.tag)
+
+  file.close()
 
 def isValidFileToUpdate(filePath: str) -> bool:
    global sourceFilePath
@@ -108,7 +114,9 @@ def updateTagsInFile(filePath: str):
   # Update each tag that is listed for an update
   for tag in tagsToUpdateList:
     tagRef = soup.find(tag.tag)
-    tagRef.contents = BeautifulSoup(tag.contents, 'html.parser').contents
+    if tagRef != None:
+      tagRef.replace_with(tag.contents)
+    #tagRef.contents = BeautifulSoup(tag.contents, 'html.parser').contents
 
   # Save the updated HTML to a file
   if isDebug:
@@ -131,5 +139,8 @@ def main():
   global sourceFilePath
   workingDir = getWorkingDir()
   sourceFilePath = getSourceFile(workingDir)
+  initTags()
   updateTagListWithContentFromSourceFile(sourceFilePath)
   updateFilesWithNewTags(workingDir)
+
+main()
