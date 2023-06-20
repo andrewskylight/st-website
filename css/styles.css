@@ -368,3 +368,14 @@ p, li , tr, td{
   align-items: center;
 }
 
+.vertical-carousel {
+  max-height: 600px;
+  overflow: hidden;
+}
+
+.vertical-carousel img {
+  max-width: 100%;
+  max-height: 600px;
+  width: auto;
+  height: auto;
+}
