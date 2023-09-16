@@ -383,3 +383,10 @@ p, li , tr, td{
 ul, ol {
   margin-bottom: 20px; /* Adjust the value to increase or decrease the spacing */
 }
+
+.center-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
