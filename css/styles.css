@@ -55,9 +55,15 @@ body {
   margin-top: 80px;
 }
 
-p, li , tr, td{
+p, tr, td{
   font-size: 1.2em;
 }
+
+li {
+  font-size: 3em;
+  padding-bottom: 10px; /* Adjust this value to increase or decrease spacing */
+}
+
 
 .land-tours li{
 	font-size: 1.2em;
