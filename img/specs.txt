@@ -1,0 +1,6 @@
+1500px on the widest side
+
+1125px : 1500px
+1500px : 1125px
+
+or 4:3
