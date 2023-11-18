@@ -121,7 +121,7 @@ li {
 
 #hero {
   min-height: 70%;
-  background-image: url('../img/mainbg.jpg');
+  /* background-image: url('../img/mainbg.jpg'); */
   background-size: cover;
 
   background-repeat: no-repeat;
