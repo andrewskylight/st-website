@@ -603,43 +603,52 @@
                         not comfortable walking barefoot, consider bringing your
                         own indoor shoes.</li>
                 </ul>
-                <h2 id="get-there">How do I get there?</h2>
-                <p>You are heading to Montague Beach.</p>
-                <p>The following link will take you to the precise departure point.</p>
-                <p><a href="https://maps.app.goo.gl/XR1DWtEMGv89nfad6" target="_blank">Sail Tomorrow (Departure Point)</a></p>
-                <p>Pass the sign for "Fort Montagu Park" and "Montague Beach".</p>
-                <p>Take the <em>left turn at the traffic light</em> into Montague Beach</p>
+                <h2>How do I get there?</h2>
+                <p>The following link shows the exact location of the boat in
+                    the marina (switch to satellite view for details):</p>
+                <p><a href="https://maps.app.goo.gl/oydzvpiBpmxhR9Nd8" target="_blank">Phoenix
+                        777 at Bayshore Marina</a></p>
                 <p class="center-content">
                     <img
-                        src="img/pages/how-to-get-montague/montagu-meeting-location.jpg"
+                        src="img/pages/how-to-get-bayshore/security-gate.jpg"
                         class="img-responsive"
                         alt="security gate">
                 </p>
-                <h3>Step 1: Get to the beach</h3>
+                <h3>Step 1: Get to the marina</h3>
                 <p>We depart from <a
-                        href="https://maps.app.goo.gl/XR1DWtEMGv89nfad6" target="_blank">
-                        Montague Beach - Main Pier</a></p>
+                        href="https://maps.app.goo.gl/7rR4N3wLjUH6t7mE7" target="_blank">
+                        Bayshore Marina </a>(not Baystreet Marina; that's a
+                    different place):</p>
+                <p><a href="https://maps.app.goo.gl/7rR4N3wLjUH6t7mE7" target="_blank">64 E Bay
+                        St, Nassau</a></p>
 
-                <p>Pass the signs for "Fort Montagu Park" and "Montague Beach"</p>
-                <p>The traffic light turn is just before <em>Fish Market</em></p>
-
-                        <p class="center-content">
-                            <img
-                                src="img/pages/how-to-get-montague/montagu-left-turn.jpg"
-                                class="img-responsive"
-                                alt="security gate">
-                        </p>
-            
-
-                <h3>Step 2: Get to the meeting point</h3>
-                <p>A member of the crew will greet you by the <em>Pink Building</em>, located just in front of the main pier.</p>
                 <p class="center-content">
                     <img
-                        src="img/pages/how-to-get-montague/montagu-meeting-location.jpg"
+                        src="img/pages/how-to-get-bayshore/location-illustration.jpg"
                         class="img-responsive"
                         alt="security gate">
                 </p>
-                <p>Once all guests are gathered the vessel will dock and the crew will assist with embarkation.</p>
+                <h3>Step 2: Get to the boat</h3>
+                <p>Tell the security guard you are here for "Phoenix" and they
+                    will show you where to go.</p>
+                <p class="center-content">
+                    <img
+                        src="img/pages/how-to-get-bayshore/marina-satellite-view.jpg"
+                        class="img-responsive"
+                        alt="security gate">
+                </p>
+                <h3>In the event a security guard:</h3>
+                <ul>
+                    <li>asks for a slip number: you are in a wrong place. Return
+                        to Bay St (main street) and follow the traffic. Entrance
+                        to the Bayshore marina will be on the left</li>
+                    <li>says you are at Nassau Yacht Heaven. Return to Bay St
+                        (main street) and go against traffic flow. Entrance to
+                        the Bayshore marina will be on the right</li>
+                    <li>says you are at Bay<b>street</b> marina (not the same as
+                        Bayshore Marina). Follow the traffic on Bay St. Bayshore
+                        is 9min away by car or 15min away by foot</li>
+                </ul>
             </section>
 
             <footer id="footer">
