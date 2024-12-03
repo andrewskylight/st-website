@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <!-- Google tag (gtag.js) -->
+        <script async
+            src="https://www.googletagmanager.com/gtag/js?id=G-CB183WXYC1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-CB183WXYC1');
+    </script>
+        <meta charset="utf-8" />
+        <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+        <meta content="width=device-width, initial-scale=1" name="viewport" />
+        <meta content="Swimming Pig Tour Nassau, Bahamas" name="description" />
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+        <title>Pig Beach Tour Nassau, Bahamas | sailtomorrow.com</title>
+        <link crossorigin="anonymous"
+            href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+            integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+            rel="stylesheet" />
+        <!-- Font Awesome -->
+        <link
+            href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"
+            rel="stylesheet" />
+        <!-- Lightbox -->
+        <link href="css/lightbox.min.css" rel="stylesheet" />
+        <!-- Overrides -->
+        <link href="css/styles.css?v=20240211" rel="stylesheet" />
+        <style>
+        .sidebar-content-section:before {
+            display: block;
+            content: " ";
+            margin-top: -80px;
+            height: 80px;
+            visibility: hidden;
+        }
+    </style>
+    </head>
+    <body>
+        <nav class="navbar navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button alt="home" aria-expanded="false"
+                        class="navbar-toggle collapsed"
+                        data-target="#bs-example-navbar-collapse-1"
+                        data-toggle="collapse" title="home" type="button">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="tour-pig-beach.htm">
+                        <img alt="Sail Tomorrow" src="img/logo.png" />
+                    </a>
+                </div>
+                <div class="collapse navbar-collapse"
+                    id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="dropdown">
+                            <a aria-expanded="false" aria-haspopup="true"
+                                class="dropdown-toggle" data-toggle="dropdown"
+                                href="index.htm#tour-bahamas-diving.htm"
+                                role="button">Buy Now<span
+                                    class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <!-- <li><a href="https://buy.stripe.com/00g02tcYT7XX2iI7sB">Pig Beach (Rose Island)</a></li> -->
+                                <li><a
+                                        href="https://buy.stripe.com/28odTj2kfdih4qQcMU">Pig
+                                        Beach (Athol / Pearl)</a></li>
+                                <li><a
+                                        href="https://buy.stripe.com/00gg1r4sn0vvcXmcMT">Crew
+                                        Tips</a></li>
+                            </ul>
+                        </li>
+                        <!-- <li class="dropdown">
+						<a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown"
+							href="index.htm#tour-bahamas-diving.htm" role="button">Daily Tours<span
+								class="caret"></span></a>
+						<ul class="dropdown-menu">
+							<li><a href="index.htm">Pig Beach</a></li>
+							<li><a href="tour-blue-hole.htm">Blue Hole</a></li>
+							<li><a href="tour-sunset-cruise.htm">Sunset Cruise</a></li>
+						</ul>
+					</li> -->
+                        <!-- <li class="dropdown">
+						<a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown"
+							href="tour-exuma.htm" role="button">Liveaboard<span class="caret"></span></a>
+						<ul class="dropdown-menu">
+							<li><a href="tour-exuma.htm">Exuma</a></li>
+							<li><a href="tour-tiger-beach.htm">Tiger Beach</a></li>
+						</ul>
+					</li> -->
+                        <!-- <li><a href="fleet-phoenix.htm">Yacht</a></li>
+					<li><a href="photos.htm">Photos</a></li> -->
+                        <li><a href="tour-pig-beach.htm">Pig Beach Tour</a></li>
+                        <li><a class="cta-nav"
+                                href="contact.htm">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <section class="content-center-wrapper content-inverse" id="hero"
+            style="background-image: url('img/hero/pig-beach-cover.jpg')">
+            <div class="content-center banner-text" id="hero-content">
+                <h1>Snorkeling, Swimming Pigs, Turtles & Lunch</h1>
+                <h2 class="text-center">3 stop cruise</h2>
+            </div>
+        </section>
+        <section class="content content-single" id="pig-beach-photos-vertical">
+            <div class="content-header">
+                <h2>All Day!</h2>
+                <div class="content-header-description container">
+                    <p>
+                        Immerse into a catamaran adventure in the breathtaking
+                        Bahamas. Encounter delightful swimming pigs,
+                        dive into the Caribbean reef for a swim and snorkeling
+                        experience with turtles, savor a delicious
+                        lunch, and bask in the warm sunshine.
+                    </p>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="row first-row">
+                    <div class="col-md-6">
+                        <img
+                            src="img/pages/pig-beach/woman-feeds-swimming-pigs.jpg"
+                            class="img-responsive"
+                            alt="Woman feeding swimming pigs">
+                    </div>
+                    <div class="col-md-6">
+                        <img
+                            src="img/pages/pig-beach/women-holding-swimming-pig.jpg"
+                            class="img-responsive"
+                            alt="Women holding a swimming pig">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <img src="img/pages/pig-beach/tourists-seastar.jpg"
+                            class="img-responsive"
+                            alt="Tourists excited about a seastar">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="content content-single" id="highlights">
+            <div class="content-header">
+                <hr />
+                <h2>Highlights</h2>
+                <div class="content-header-description container">
+                </div>
+            </div>
+            <div class="content-body container">
+                <ul>
+                    <li>Swim with turtles in their natural environment or watch
+                        from the boat</li>
+                    <li>Feed the hungry pigs</li>
+                    <li>Snap your perfect Bahamas photo</li>
+                    <li>Snorkel in Caribbean reef, abundant with corals and
+                        fish</li>
+                    <li>Sail an ocean-rated, spacious Catamaran</li>
+                    <li>Feed your tummy: lunch and drinks included</li>
+                    <li>A 5-star experience you can book on</li>
+                </ul>
+            </div>
+
+            <div class="container">
+                <div class="row first-row">
+                    <div class="col-md-6">
+                        <img src="img/pages/pig-beach/sea-stars-and-beer.jpg"
+                            class="img-responsive"
+                            alt="Woman feeding swimming pigs">
+                    </div>
+                    <div class="col-md-6">
+                        <img src="img/pages/pig-beach/turtle-sucker.jpg"
+                            class="img-responsive"
+                            alt="Women holding a swimming pig">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <img
+                            src="img/pages/pig-beach/guest-swimming-after-turtle.jpg"
+                            class="img-responsive"
+                            alt="Tourists excited about a seastar">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="content content-single" id="description">
+            <div class="content-header">
+                <hr />
+                <h2>Description</h2>
+                <div class="content-header-description container">
+                </div>
+            </div>
+            <div class="content-body container">
+                <p>Looking for an unforgettable adventure? Look no further than
+                    our daily tour to Pig Beach in the Bahamas!
+                    Join us for a day filled with excitement, fun, and of
+                    course, adorable swimming pigs.</p>
+                <p>Take some time to explore three different islands off the
+                    coast of Nassau by Catamaran. Visit the coral
+                    reef by Pearl Island, snorkel in the waters, and spot the
+                    colorful and majestic fish. Then, admire
+                    turtles at Turtle Cay, before getting playful with the local
+                    pigs.</p>
+                <p>Our tour begins with a comfortable boat ride to the stunning
+                    New Providence Islands, where you'll be
+                    surrounded by crystal clear waters and breathtaking scenery.
+                    Once we arrive at Pig Beach, you'll be
+                    greeted by a group of friendly and curious pigs, who love
+                    nothing more than swimming, playing, and
+                    posing for photos with visitors.</p>
+                <p>As you watch these charming creatures splash around in the
+                    turquoise water, you'll be amazed by their
+                    intelligence and playful nature. Our knowledgeable guides
+                    will be on hand to tell you all about the
+                    history and behavior of these amazing animals, and you'll
+                    have plenty of time to swim and interact with
+                    them yourself.</p>
+                <p>But Pig Beach isn't just about the pigs - it's also an
+                    opportunity to explore the stunning natural beauty
+                    of the New Providence Islands. Take a dip in the warm,
+                    inviting water, snorkel amongst vibrant coral
+                    reefs and colorful fish, or simply relax on the soft white
+                    sand of one of the many secluded beaches.</p>
+                <h2>Details</h2>
+                <ul>
+                    <li>Visit Rose Island, Perl and Athol Islands</li>
+                    <li>Swim with turtles, feed the pigs, snorkel the reef,
+                        lunch, rum punch/coke</li>
+                    <li>45 feet Ocean Catamaran</li>
+                    <li>5 hours; start at 9:30am</li>
+                    <li>Close to the cruise port</li>
+                    <li>Pricing: see calendar below for details</li>
+                    <li>Free cancellation: cancel up to 8 hours in advance for a
+                        full refund</li>
+                    <li>Private charter available</li>
+                </ul>
+                <div class="row">
+                    <div class="col-md-6">
+                        <!-- INCLUDED SECTION-->
+                        <h3 class="text-success">Included:</h3>
+                        <ul class="sublist">
+                            <li>Catamaran Cruise with captain and crew</li>
+                            <li>Snorkeling equipment</li>
+                            <li>Lunch (Vegetarians welcomed)/li>
+                                <li>Unlimited Rum Punch / Coke</li>
+                                <li>Drinking Water and ice</li>
+                                <li>You can bring your own food or drinks</li>
+                                <li>Cover from rain</li>
+                                <li>Wi-Fi</li>
+                                <li>Washroom</li>
+                            </ul></div>
+
+                        <div class="col-md-6">
+                            <h3 class="text-warning">Not Included:</h3>
+
+                            <!-- EXCLUDED SECTION / NOT INCLUDED -->
+
+                            <ul class="sublist">
+                                <li>Interaction with pigs ($30 payable with cash to pig owner)</li>
+                                <li>Hotel pickup and drop-off</li>
+                                <li>Beach Towels</li>
+                                <li>Crew Tips</li>
+                            </ul></div>
+                    </div>
+
+                    <h3 class="text-blue">Logistics:</h3>
+                    <ul>
+                        <li><a
+                                target="_blank"
+                                href="https://maps.app.goo.gl/5rmUQfcG6XgyDafKA">Meeting
+                                Location: Bay Shore Marina (close to cruise ship
+                                port)</a></li>
+                        <li>Duration: 09:30am - 2:30pm (9:30-14:30)
+                            5hrs</p></li>
+                </ul>
+
+                <!-- NOT SUITABLE FOR -->
+                <h3>Know Before You Go:</h3>
+                <ul class="sublist">
+                    <li>Not suitable for pregnant women or people with
+                        epilepsy</li>
+                    <li>Itinerary is subject to weather conditions</li>
+                    <li>An island is considered to be visited if the boat
+                        anchors near the island</li>
+                    <li>The Swimming Pigs location is chosen on the day of the
+                        tour based on weather, wind protection, and the busyness
+                        of the pig operator</li>
+                </ul>
+            </div>
+        </section>
+
+        <div class="container">
+            <div class="row first-row">
+                <div class="col-md-6">
+                    <img src="img/pages/pig-beach/group-photo-guests.jpg"
+                        class="img-responsive"
+                        alt="Woman feeding swimming pigs">
+                </div>
+                <div class="col-md-6">
+                    <img src="img/pages/pig-beach/crew-smiling.jpg"
+                        class="img-responsive"
+                        alt="Women holding a swimming pig">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <img src="img/pages/pig-beach/women-smiling-in-water.jpg"
+                        class="img-responsive"
+                        alt="Tourists excited about a seastar">
+                </div>
+            </div>
+        </div>
+
+        <!-- <section id="bokun-book">
+        <script type="text/javascript"
+            src="https://widgets.bokun.io/assets/javascripts/apps/build/BokunWidgetsLoader.js?bookingChannelUUID=a4c56eef-cac3-43e0-8caa-aff3858945be"
+            async></script>
+
+        <div class="bokunWidget"
+            data-src="https://widgets.bokun.io/online-sales/a4c56eef-cac3-43e0-8caa-aff3858945be/experience-calendar/809865">
+        </div>
+        <noscript>Please enable javascript in your browser to book</noscript>
+    </section> -->
+        <section id="bokun-book">
+            <script async
+                src="https://widgets.bokun.io/assets/javascripts/apps/build/BokunWidgetsLoader.js?bookingChannelUUID=a4c56eef-cac3-43e0-8caa-aff3858945be"
+                type="text/javascript"></script>
+            <div class="bokunWidget"
+                data-src="https://widgets.bokun.io/online-sales/a4c56eef-cac3-43e0-8caa-aff3858945be/experience-calendar/809865">
+            </div>
+            <noscript>Please enable javascript in your browser to
+                book</noscript>
+        </section>
+        <!-- <section class="center-content" id="book-pig-beach">
+        <h2>Book Today</h2>
+        <p><a href="https://buy.stripe.com/6oE4iJaQL0vv8H6aEF" target="_blank">Click this link to purchase tickets
+                today</a></p>
+        <a href="https://buy.stripe.com/6oE4iJaQL0vv8H6aEF" target="_blank"><img class="responsive" height="211"
+                src="img/pages/pig-beach/scan-to-pay.jpg" width="176" /></a>
+    </section> -->
+        <section id="testimonials" class="content sidebar-content-section">
+            <!-- <div class="testimonial panel panel-default">
+            <div class="panel-heading">
+              <h4><strong>"TITLE"</strong></h4>
+            </div>
+            <div class="panel-body">
+              <p>Text</p>
+              <div class="testimonial-author">
+                <p><strong>Person's Name</strong></p>
+                <p>Date</p>
+              </div>
+            </div>
+            <div class="panel-footer">
+                <p>
+                    <i class="fa fa-star fa-2x"></i>
+                    <i class="fa fa-star fa-2x"></i>
+                    <i class="fa fa-star fa-2x"></i>
+                    <i class="fa fa-star fa-2x"></i>
+                    <i class="fa fa-star fa-2x"></i>
+                  </p>
+            </div>
+        </div> -->
+            <div class="content-body container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="testimonial panel panel-default">
+                            <div class="panel-heading">
+                                <h4><strong>"pig and snorkeling"</strong></h4>
+                            </div>
+                            <div class="panel-body">
+                                <p>the staff was great! they really made us feel
+                                    welcomed and safe. Justin was our host. The
+                                    snorkeling and pig feeding was an experience
+                                    i definitely recommend</p>
+                                <div class="testimonial-author">
+                                    <p><strong>Elijah C</strong></p>
+                                    <p>Feb 2024</p>
+                                </div>
+                            </div>
+                            <div class="panel-footer">
+                                <p>
+                                    <i class="fa fa-star fa-2x"></i>
+                                    <i class="fa fa-star fa-2x"></i>
+                                    <i class="fa fa-star fa-2x"></i>
+                                    <i class="fa fa-star fa-2x"></i>
+                                    <i class="fa fa-star fa-2x"></i>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="testimonial panel panel-default">
+                            <div class="panel-heading">
+                                <h4><strong>"Highly recommended"</strong></h4>
+                            </div>
+                            <div class="panel-body">
+                                <p>I can sincerely say that this day stands out
+                                    as one of the most exceptional experiences
+                                    in my life. The team's hospitality made us
+                                    feel truly embraced, and the enjoyment we
+                                    had with them was unparalleled. The variety
+                                    of activities packed into this trip, given
+                                    its affordability, is truly remarkable. We
+                                    explored two snorkeling spots and the Pig
+                                    beach, with just the right amount of time at
+                                    each location to fully appreciate it all.
+                                    The conclusion of this adventure leaves me
+                                    genuinely melancholic. It was an
+                                    extraordinary experience!</p>
+                                <div class="testimonial-author">
+                                    <p><strong>John W</strong></p>
+                                    <p>January 31, 2024</p>
+                                </div>
+                            </div>
+                            <div class="panel-footer">
+                                <p>
+                                    <i class="fa fa-star fa-2x"></i>
+                                    <i class="fa fa-star fa-2x"></i>
+                                    <i class="fa fa-star fa-2x"></i>
+                                    <i class="fa fa-star fa-2x"></i>
+                                    <i class="fa fa-star fa-2x"></i>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="testimonial panel panel-default">
+                            <div class="panel-heading">
+                                <h4><strong>"Family Tour experience"</strong></h4>
+                            </div>
+                            <div class="panel-body">
+                                <p>The boat tour experience was awesome I had a
+                                    great time.The lunch was very tasty and the
+                                    captain very professional would recommend
+                                    this tour to everyone money well spent</p>
+                                <div class="testimonial-author">
+                                    <p><strong>Tanya G</strong></p>
+                                    <p>Jan, 2024</p>
+                                </div>
+                            </div>
+                            <div class="panel-footer">
+                                <p>
+                                    <i class="fa fa-star fa-2x"></i>
+                                    <i class="fa fa-star fa-2x"></i>
+                                    <i class="fa fa-star fa-2x"></i>
+                                    <i class="fa fa-star fa-2x"></i>
+                                    <i class="fa fa-star fa-2x"></i>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="content content-single"
+            id="pig-beach-photos-horizontal">
+            <div class="content-header">
+                <h2>Photo Gallery</h2>
+                <!-- <div class="content-header-description container">
+    <p>We are proud to offer a variety of affordable options. Prices for base packages are listed below. Custom packages are offered on a prorated and negotiated basis We provide discounts on select occassions to large groups. Contact us to learn more.</p>
+  </div> -->
+            </div>
+            <div class="container center-content">
+                <div class="carousel slide carousel-fade" data-ride="carousel"
+                    id="carousel-pig-beach-horizontal">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li class="active" data-slide-to="0"
+                            data-target="#carousel-pig-beach-horizontal"></li>
+                        <li data-slide-to="1"
+                            data-target="#carousel-pig-beach-horizontal"></li>
+                        <li data-slide-to="2"
+                            data-target="#carousel-pig-beach-horizontal"></li>
+                        <li data-slide-to="3"
+                            data-target="#carousel-pig-beach-horizontal"></li>
+                        <li data-slide-to="4"
+                            data-target="#carousel-pig-beach-horizontal"></li>
+                        <li data-slide-to="5"
+                            data-target="#carousel-pig-beach-horizontal"></li>
+                        <li data-slide-to="6"
+                            data-target="#carousel-pig-beach-horizontal"></li>
+                        <li data-slide-to="7"
+                            data-target="#carousel-pig-beach-horizontal"></li>
+                        <li data-slide-to="8"
+                            data-target="#carousel-pig-beach-horizontal"></li>
+                        <li data-slide-to="9"
+                            data-target="#carousel-pig-beach-horizontal"></li>
+                        <li data-slide-to="10"
+                            data-target="#carousel-pig-beach-horizontal"></li>
+                        <li data-slide-to="11"
+                            data-target="#carousel-pig-beach-horizontal"></li>
+                        <li data-slide-to="12"
+                            data-target="#carousel-pig-beach-horizontal"></li>
+                    </ol>
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        <div class="item active">
+                            <img src="img/pages/pig-beach/horizontal/1.jpg" />
+                            <div class="carousel-caption">
+                                <p>Guets's photos.</p>
+                            </div>
+                        </div>
+                        <div class="item"><img
+                                src="img/pages/pig-beach/horizontal/2.jpg" /></div>
+                        <div class="item"><img
+                                src="img/pages/pig-beach/horizontal/3.jpg" /></div>
+                        <div class="item"><img
+                                src="img/pages/pig-beach/horizontal/4.jpg" /></div>
+                        <div class="item"><img
+                                src="img/pages/pig-beach/horizontal/5.jpg" /></div>
+                        <div class="item"><img
+                                src="img/pages/pig-beach/horizontal/6.jpg" /></div>
+                        <div class="item"><img
+                                src="img/pages/pig-beach/horizontal/7.jpg" /></div>
+                        <div class="item"><img
+                                src="img/pages/pig-beach/horizontal/8.jpg" /></div>
+                        <div class="item"><img
+                                src="img/pages/pig-beach/horizontal/9.jpg" /></div>
+                        <div class="item"><img
+                                src="img/pages/pig-beach/horizontal/10.jpg" /></div>
+                        <div class="item"><img
+                                src="img/pages/pig-beach/horizontal/11.jpg" /></div>
+                        <div class="item"><img
+                                src="img/pages/pig-beach/horizontal/12.jpg" /></div>
+                        <div class="item"><img
+                                src="img/pages/pig-beach/horizontal/13.jpg" /></div>
+
+                    </div>
+                    <!-- Controls -->
+                    <a class="left carousel-control" data-slide="prev"
+                        href="#carousel-pig-beach-horizontal" role="button">
+                        <span aria-hidden="true"
+                            class="glyphicon glyphicon-chevron-left"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" data-slide="next"
+                        href="#carousel-pig-beach-horizontal" role="button">
+                        <span aria-hidden="true"
+                            class="glyphicon glyphicon-chevron-right"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+        <section class="content content-single" id="FAQ">
+            <div class="content-header">
+                <hr />
+                <h2>FAQ</h2>
+                <div class="content-header-description container">
+                    <p>Please read after (or before) making a purchase</p>
+                </div>
+            </div>
+            <div class="content-body container">
+                <h2>Location</h2>
+                <p>The boat is located at Bay<em>shore</em> Marina, not
+                    Bay<b>street</b>. Bayshore is further down the street.</p>
+                <p>You can find the exact location of the boat in the marina by
+                    following this link (please switch to satellite view for
+                    details):</p>
+                <p>
+                    <a href="https://maps.app.goo.gl/oydzvpiBpmxhR9Nd8" target="_blank">Phoenix
+                        777 at Bayshore Marina</a></p>
+
+                <p>We are just a 15-minute taxi ride away from the cruise
+                    terminal and a hotel on Paradise Island. Taxis are readily
+                    available at the cruise terminal, and hotel clerks can
+                    arrange one for you.</p>
+
+                <h2>What do I bring?</h2>
+                <ul>
+                    <li>Towels</li>
+                    <li>Cash (Pig Beach Interactions: $30 per person; USD and BSD are equivalent)</li>
+                    <li>Snorkeling gear, if you have it (we do provide snorkeling equipment and life jackets, but feel free to bring your own</li>
+                </ul>
+
+                <h2>I have a question about ...</h2>
+                <ul>
+                    <li><b>Lunch</b> is provided, and we can accommodate
+                        gluten-free, vegan, and vegetarian diets. Please let us
+                        know in advance. You're also welcome to bring your own
+                        lunch if you prefer.</li>
+                    <li><b>Drinks</b> provided include rum and coke (Cuba Libre)
+                        and fresh water. You're welcome to bring your own drinks
+                        as well.</li>
+                    <li><b>Drones</b> are generally allowed, but it's best to
+                        double-check with the crew for specific details
+                        on-site.</li>
+                    <li><b>Shoes:</b> The Phoenix 777 is a <em>shoe-free
+                            boat</em>, meaning no street shoes are allowed. Your
+                        shoes will be stored in a safe place onboard. If you're
+                        not comfortable walking barefoot, consider bringing your
+                        own indoor shoes.</li>
+                </ul>
+                <h2>How do I get there?</h2>
+                <p>The following link shows the exact location of the boat in
+                    the marina (switch to satellite view for details):</p>
+                <p><a href="https://maps.app.goo.gl/oydzvpiBpmxhR9Nd8" target="_blank">Phoenix
+                        777 at Bayshore Marina</a></p>
+                <p class="center-content">
+                    <img
+                        src="img/pages/how-to-get-bayshore/security-gate.jpg"
+                        class="img-responsive"
+                        alt="security gate">
+                </p>
+                <h3>Step 1: Get to the marina</h3>
+                <p>We depart from <a
+                        href="https://maps.app.goo.gl/7rR4N3wLjUH6t7mE7" target="_blank">
+                        Bayshore Marina </a>(not Baystreet Marina; that's a
+                    different place):</p>
+                <p><a href="https://maps.app.goo.gl/7rR4N3wLjUH6t7mE7" target="_blank">64 E Bay
+                        St, Nassau</a></p>
+
+                <p class="center-content">
+                    <img
+                        src="img/pages/how-to-get-bayshore/location-illustration.jpg"
+                        class="img-responsive"
+                        alt="security gate">
+                </p>
+                <h3>Step 2: Get to the boat</h3>
+                <p>Tell the security guard you are here for "Phoenix" and they
+                    will show you where to go.</p>
+                <p class="center-content">
+                    <img
+                        src="img/pages/how-to-get-bayshore/marina-satellite-view.jpg"
+                        class="img-responsive"
+                        alt="security gate">
+                </p>
+                <h3>In the event a security guard:</h3>
+                <ul>
+                    <li>asks for a slip number: you are in a wrong place. Return
+                        to Bay St (main street) and follow the traffic. Entrance
+                        to the Bayshore marina will be on the left</li>
+                    <li>says you are at Nassau Yacht Heaven. Return to Bay St
+                        (main street) and go against traffic flow. Entrance to
+                        the Bayshore marina will be on the right</li>
+                    <li>says you are at Bay<b>street</b> marina (not the same as
+                        Bayshore Marina). Follow the traffic on Bay St. Bayshore
+                        is 9min away by car or 15min away by foot</li>
+                </ul>
+            </section>
+
+            <footer id="footer">
+                <div class="container">
+                    <hr />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="clearfix">
+                                <p class="pull-left">
+                                    © Sail Tomorrow Corp. 2013-2024. All Rights
+                                    Reserved.
+                                </p>
+                                <p class="pull-right">
+                                    <a href="termsofservice.htm">Terms of
+                                        Service</a> |
+                                    <a href="privacypolicy.htm">Privacy
+                                        Policy</a> |
+                                    <a
+                                        href="responsibletravelpolicy.htm">Responsible
+                                        Travel
+                                        Policy</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+            <script
+                src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+            <script crossorigin="anonymous"
+                integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
+                src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js">
+</script>
+            <!-- Fancybox -->
+            <!-- Add mousewheel plugin (this is optional) -->
+            <script src="/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"
+                type="text/javascript"></script>
+            <!-- Add magnific pop -->
+            <!-- Magnific Popup core CSS file -->
+            <link href="magnific-popup/magnific-popup.css" rel="stylesheet" />
+            <!-- Magnific Popup core JS file -->
+            <script src="magnific-popup/jquery.magnific-popup.min.js"></script>
+            <script>
+        $('.main-video').magnificPopup({
+            type: 'iframe'
+            // other options
+        });
+    </script>
+        </body>
+    </html>
+    <!-- last update 2023-11-10 -->

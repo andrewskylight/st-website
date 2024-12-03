@@ -59,17 +59,20 @@ p, tr, td{
 }
 
 li {
-  font-size: 3em;
+  font-size: 1.5em;
   padding-bottom: 10px; /* Adjust this value to increase or decrease spacing */
 }
 
-
-.land-tours li{
+.sublist li{
 	font-size: 1.2em;
 }
 
-.table p, li {
+.table p {
   font-size: 1.0em;
+}
+
+.text-blue {
+  color: #3d9fed;
 }
 
 .small-text {
@@ -394,4 +397,8 @@ ul, ol {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.first-row {
+  margin-bottom: 20px; /* Adjust the value as needed */
 }
