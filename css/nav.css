@@ -1,5 +1,11 @@
 .navbar-header {
-  height: 80px;
+  min-height: 5rem;
+  height: auto;
+}
+
+.navbar .container {
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 .navbar-toggle {
@@ -11,17 +17,17 @@
 }
 
 .navbar {
-  min-height: 80px;
+  min-height: 5rem;
   background-color: white;
   border-bottom: 3px solid #5bc0de;
 }
 
 .navbar-brand img {
-  max-height: 57px;
+  max-height: 36px;
 }
 
 .navbar-nav>li>a {
-  line-height: 56px;
+  line-height: 36px;
   font-size: 14px;
   font-weight: bold;
 }
@@ -50,6 +56,7 @@
   .navbar-nav > li,
   .navbar-nav .open .dropdown-menu > li {
     font-size: 14px;
+    padding-top: 10px;
     padding-bottom: 0;
   }
 

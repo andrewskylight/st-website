@@ -3,7 +3,8 @@
     "allow": [
       "WebSearch",
       "Bash(sed:*)",
-      "WebFetch(domain:127.0.0.1)"
+      "WebFetch(domain:127.0.0.1)",
+      "WebFetch(domain:sailtomorrow.com)"
     ],
     "deny": [],
     "ask": []
