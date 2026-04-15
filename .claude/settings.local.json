@@ -4,7 +4,9 @@
       "WebSearch",
       "Bash(sed:*)",
       "WebFetch(domain:127.0.0.1)",
-      "WebFetch(domain:sailtomorrow.com)"
+      "WebFetch(domain:sailtomorrow.com)",
+      "Bash(python3:*)",
+      "Bash(node -e:*)"
     ],
     "deny": [],
     "ask": []

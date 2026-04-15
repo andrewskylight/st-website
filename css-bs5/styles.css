@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,700;1,9..40,400&display=swap);
 
 :root {
   --st-accent: #5bc0de;
@@ -10,8 +11,10 @@ html, body {
 }
 
 body {
+  font-family: 'DM Sans', sans-serif;
   font-weight: 500;
   padding-top: 80px; /* offset for fixed navbar */
+  color: #343a40;
 }
 
 /* Navbar (Bootstrap 5) */
@@ -86,11 +89,13 @@ body {
   #hero-content h1 {
     font-size: 1.5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: -1px -1px 0 rgba(255,255,255,0.35), 2px 2px 4px rgba(0,0,0,0.75);
   }
 
   #hero-content h2 {
     font-size: 1.0em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: -1px -1px 0 rgba(255,255,255,0.35), 2px 2px 4px rgba(0,0,0,0.75);
   }
 }
 
@@ -98,11 +103,13 @@ body {
   #hero-content h1 {
     font-size: 4em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: -1px -1px 0 rgba(255,255,255,0.35), 2px 2px 4px rgba(0,0,0,0.75);
   }
 
   #hero-content h2 {
     font-size: 2.5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: -1px -1px 0 rgba(255,255,255,0.35), 2px 2px 4px rgba(0,0,0,0.75);
   }
 }
 
