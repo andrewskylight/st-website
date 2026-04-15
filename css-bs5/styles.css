@@ -163,6 +163,11 @@ body {
   margin-top: 0.8em;
 }
 
+/* List spacing */
+li {
+  margin-bottom: 0.5em;
+}
+
 /* Minor helpers */
 .text-blue {
   color: var(--st-blue);
