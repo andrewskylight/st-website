@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "WebSearch",
-      "Bash(sed:*)"
+      "Bash(sed:*)",
+      "WebFetch(domain:127.0.0.1)"
     ],
     "deny": [],
     "ask": []

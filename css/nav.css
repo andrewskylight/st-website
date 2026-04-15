@@ -45,3 +45,23 @@
   background-color: #31b0d5 !important;
   border-color: #269abc !important;
 }
+
+@media (max-width: 767px) {
+  .navbar-nav > li,
+  .navbar-nav .open .dropdown-menu > li {
+    font-size: 14px;
+    padding-bottom: 0;
+  }
+
+  .navbar-nav > li > a {
+    line-height: 1;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .navbar-nav .open .dropdown-menu > li > a {
+    line-height: 1;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+}
