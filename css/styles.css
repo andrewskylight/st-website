@@ -414,6 +414,11 @@ ul, ol {
   margin-bottom: 20px;
 }
 
+/* Reduce the visible gap between stacked rows in Highlights photos */
+#highlights .highlights-photos-row-1 .img-responsive {
+  margin-bottom: 10px;
+}
+
 /* Carousel: round the container, not individual images */
 .carousel {
   border-radius: 12px;
