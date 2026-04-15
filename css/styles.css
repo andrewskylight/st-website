@@ -187,7 +187,7 @@ li {
 
 .content-header {
   text-align: center;
-  padding: 3em 0;
+  padding: 2em 0;
 }
 
 .content-header h1 {
@@ -394,8 +394,17 @@ ul, ol {
   margin-bottom: 20px; /* Adjust the value as needed */
 }
 
+/* Don't globally override Bootstrap `.container` spacing.
+   The old rule (`padding: 40px`) added large vertical gaps everywhere. */
 .container {
-  padding: 40px; /* adds padding on all sides */
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+@media (max-width: 576px) {
+  .content-header {
+    padding: 1.25em 0;
+  }
 }
 
 /* Content images */
