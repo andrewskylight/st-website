@@ -396,3 +396,21 @@ ul, ol {
 .container {
   padding: 40px; /* adds padding on all sides */
 }
+
+/* Content images */
+.img-responsive {
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  margin-bottom: 20px;
+}
+
+/* Carousel: round the container, not individual images */
+.carousel {
+  border-radius: 12px;
+}
+
+.carousel img {
+  border-radius: 0;
+  box-shadow: none;
+  margin-bottom: 0;
+}
