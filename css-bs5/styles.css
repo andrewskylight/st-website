@@ -83,19 +83,23 @@ body {
 
 #hero-content {
   text-align: left;
+  background: rgba(0, 0, 0, 0.1);
+  padding: 1rem 1.5rem;
+  border-radius: 6px;
 }
 
 @media screen and (min-width: 577px){
   #hero-content h1 {
     font-size: 1.5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-shadow: -1px -1px 0 rgba(255,255,255,0.35), 2px 2px 4px rgba(0,0,0,0.75);
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.9), 0 0 8px rgba(0,0,0,0.7);
   }
 
   #hero-content h2 {
     font-size: 1.0em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-shadow: -1px -1px 0 rgba(255,255,255,0.35), 2px 2px 4px rgba(0,0,0,0.75);
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.9), 0 0 8px rgba(0,0,0,0.7);
   }
 }
 
@@ -103,13 +107,14 @@ body {
   #hero-content h1 {
     font-size: 4em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-shadow: -1px -1px 0 rgba(255,255,255,0.35), 2px 2px 4px rgba(0,0,0,0.75);
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.9), 0 0 8px rgba(0,0,0,0.7);
   }
 
   #hero-content h2 {
     font-size: 2.5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-shadow: -1px -1px 0 rgba(255,255,255,0.35), 2px 2px 4px rgba(0,0,0,0.75);
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.9), 0 0 8px rgba(0,0,0,0.7);
   }
 }
 
