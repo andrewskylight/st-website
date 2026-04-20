@@ -33,6 +33,7 @@
   max-height: 1500px;
   max-width: 800px;
   overflow: hidden;
+  margin: 0 auto;
 }
 
 .pad-top {
