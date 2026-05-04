@@ -150,6 +150,10 @@ body {
   max-width: 800px;
 }
 
+.carousel-portrait {
+  max-width: 450px;
+}
+
 .carousel img {
   border-radius: 0;
   box-shadow: none;
