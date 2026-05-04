@@ -1,0 +1,10 @@
+Images:
+    - Crew image at montague
+    - Make arrows less 'basic bro'
+
+
+
+
+Dir Book:
+    SEO:        rename the page to 'Nassau 3-stop' bla bla bla
+    - see dir book at TO DO folder
