@@ -1,8 +1,22 @@
 1500px on the widest side
 
-1125px : 1500px
+Carousel Images:
 1500px : 1125px
+1125px : 1500px
 
 or 4:3
 
 Banner: 1976 x 576
+
+
+Webp ~200kb, 72dpi
+
+Image Type	        Recommended Width	Aspect Ratio
+Hero/Background	    1920px to 2560px	16:9 or 21:9
+Blog Post Images    1200px	            4:3 or 16:9
+Product Photos	    800px to 1000px	    1:1 (Square)
+Thumbnails	        150px to 300px	    1:1
+
+Carousel-recommended by www:
+    1920 x 800 
+    1920 x 600
