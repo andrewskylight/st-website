@@ -17,6 +17,11 @@ body {
   color: #343a40;
 }
 
+/* Offset anchor targets so fixed navbar doesn't cover them */
+section[id] {
+  scroll-margin-top: 80px;
+}
+
 /* Navbar (Bootstrap 5) */
 .navbar.st-navbar {
   background-color: #fff;
