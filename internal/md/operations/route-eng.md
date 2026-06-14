@@ -170,7 +170,7 @@ After unloading guests, the vessel usually leaves the dock and anchors nearby.
 
 ## Full Routes & Back Up Stops
 
-This section presents the complete routes. It also introduces back-up turtle, snorkeling, and pig beach stops that can be used depending on wind conditions.
+This section covers the full routes and back-up stops for turtles, snorkeling, and pig beach. Alternate stops are available depending on wind conditions.
 
 ### Full Route #1 (Short)
 
@@ -178,9 +178,9 @@ This section presents the complete routes. It also introduces back-up turtle, sn
 
 [View on C-MAP](https://appchart.c-map.com/redirect-route.html?id=Gui1RL9CH&key=GN6ZAA79GRL8LflBDwfGBktnF224MBPh)
 
-This route goes through the best spots using the shortest distance.
+The shortest path through the best stops.
 
-Use it in calm weather with a full boat, or when some guests came in late.
+Use in calm weather, with a full boat, or when guests are running late.
 
 ### Full Route #1 (Scenic)
 
@@ -188,9 +188,9 @@ Use it in calm weather with a full boat, or when some guests came in late.
 
 [View on C-MAP](https://appchart.c-map.com/redirect-route.html?id=QHV_Fp9sB&key=p8RfFT02LnBxYBHjyLh8dILvpp4NpVCO)
 
-This route goes through the same stops but takes a more scenic path.
+Same stops as Route #1 Short, but a more scenic path.
 
-Use it when weather and time is not a factor.
+Use when weather and time allow.
 
 ### Full Route #2 (Southern)
 
@@ -198,17 +198,16 @@ Use it when weather and time is not a factor.
 
 [View on C-MAP](https://appchart.c-map.com/redirect-route.html?id=DRjsgm8dh&key=L3REK5cGl1QX0T5Mesuiy6opvCrGa81D)
 
-This route is short and allows use of the islands as protection from winds coming from the north (good protection) and from the east (compromise).
+A short route sheltered by the islands. Good protection from north winds; partial protection from east winds.
 
-The regular Stop #2 is often inaccessible due to winds and waves.
-
-An alternative Stop #2b is located by the Pig Beach (Stop #3).
+Stop #2 is often inaccessible in rough weather. Stop #2b (Athol Reef) is used instead, located near Pig Beach.
 
 #### Stop 2b - Athol Reef
 
 ![Athol Reef - Google Map](../../img/routes/S2b%20-%20Reef%20Athol%20-%20Google%20Map.png)
 
 ![Athol Reef - Satellite](../../img/routes/S2b%20-%20Reef%20Athol%20-%20Satellite.png)
+Athol Reef is one of several small reefs on the southern side of Athol Island, within sight of Pig Lovers Beach (Stop 3). Fish are plentiful.
 
 ### Full Route #3 (Northern)
 
@@ -216,7 +215,7 @@ An alternative Stop #2b is located by the Pig Beach (Stop #3).
 
 [View on C-MAP](https://appchart.c-map.com/redirect-route.html?id=v76HszhZT&key=114BWK3xnvxyHm9PqZJgezwins7l4odq)
 
-This route provides protection from winds from the north.
+A longer route with good protection from the winds from the north
 
 #### Stop 1b: Green Cay (Turtles) — depth: 1 m / 3 ft to keel
 
@@ -224,7 +223,9 @@ This route provides protection from winds from the north.
 
 Approach from the outside; the waters near the island are shallow.
 
-Pick a sand spot. There are a few surrounded by grass (the anchor won't catch in grass).
+Choose a sand spot. There are a few surrounded by grass (the anchor won't catch in grass).
+
+Use the old and ruined dock (port side) as reference.
 
 The boat should end up in line with the old and destroyed dock (port side).
 
@@ -235,12 +236,12 @@ Turtles are spread over a large area around the boat.
 #### Stop 3b: Banana Pig Beach
 
 ![Banana Pig Beach - Overview](../../img/routes/S3b%20-%20Banana%20Pig%20Beach%20-%20Overview.png)
-Sometimes the main pig beach (Pig Lovers, Stop 1) is closed due to weather or low bookings.
+The main Pig Beach (Pig Lovers, Stop 3) is sometimes closed due to weather or low bookings. 
 
-There are a number of other pig beaches in the area. The Banana Pig Beach is called Banana because they come and pick people up on a banana boat.
+Several other pig beaches are in the area. Most require a dinghy to access.
 
-For all other beaches we would need to use a dinghy.
-
-The Banana Pig Beach is easy to find and access. The water is relatively shallow and transparent.
+The Banana Pig Beach is the preferred alternative — guests are picked up by banana boat (hence the name), so no dinghy is needed. The water is shallow and clear.
 
 ![Banana Pig Beach - Satellite](../../img/routes/S3b%20-%20Banana%20Pig%20Beach%20-%20Satellite.png)
+
+The area is easy to anchor (satellite image included for reference).
