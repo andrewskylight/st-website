@@ -1,0 +1,213 @@
+# Route - ENG
+
+**Contents:**
+[Overview](#overview) · [Marina to Pick Up](#marina-to-guest-pick-up) · [Stop 1: Lower Harbour](#stop-1-turtles-at-lower-harbour) · [Stop 2: Rose Island Reef](#stop-2-rose-island-reef) · [Stop 3: Pig Beach](#stop-3-pig-beach) · [Full Routes & Back Up Stops](#full-routes--back-up-stops)
+
+---
+
+## Overview
+
+![Overview of stops](../../img/routes/Overview%20-%20Stops.png)
+
+**Marina / Navy**
+
+The boat stays at the marina overnight. In the morning, the boat leaves to pick up the guests.
+
+**Guests**
+
+Guests are picked up and dropped off at Montague Dock.
+
+**Stop 1: Turtles**
+
+The tour starts at the turtle area. There are two possible locations. The location depends on the weather.
+
+**Stop 2: Reef with Fish**
+
+The tour continues with snorkeling at a reef. There are two possible locations. The location depends on the weather.
+
+**Stop 3: Pig Beach**
+
+The tour ends at Pig Beach. There are 4 locations. Only 2 main locations are used.
+
+---
+
+## Marina to Guest Pick Up
+
+![Montague Dock](../../img/routes/Montague%20Dock.png)
+
+Leave from Bayshore Marina.
+
+Go through the channel.
+
+Avoid rocks and hazards.
+
+Return to the dock the same way.
+
+**Notes:**
+
+The satellite image shows: typical wind direction, shallow areas, and the recommended route. The south side of the dock is preferred. Other boats may be anchored nearby.
+
+---
+
+## Stop 1: Turtles at Lower Harbour
+
+![Route to Lower Harbour](../../img/routes/S1%20-%20Lower%20Harbour.png)
+
+Leave from Montague Dock.
+
+Go along the island. Watch for reefs on the left side (port).
+
+Go through the channel.
+
+Avoid the shallow area on the right side (starboard).
+
+Get closer to Rose Island.
+
+Watch for hazards near the island.
+
+Arrive safely at Lower Harbour.
+
+### Lower Harbour (Satellite)
+
+Approach the anchoring spot along your course.
+
+The turtles live near a reef (marked on the image).
+
+The water depth is about 1 meter (from keel to bottom).
+
+In winds above 12 knots: a crew member must go into the water and secure the anchor by hand. There is not much room for the chain.
+
+> Note: There is a small reef nearby, but it has very few fish. It is not usually worth visiting. An exception is when you have extra time and need to keep guests busy.
+
+### Lower Harbour - Anchoring
+
+![Lower Harbour Anchoring 1](../../img/routes/S1%20-%20Lower%20Harbour%20-%20Anchoring%201.png)
+
+![Lower Harbour Anchoring 2](../../img/routes/S1%20-%20Lower%20Harbour%20-%20Anchoring%202.png)
+
+The wind usually blows around the island from the east. The boat is anchored bow into the wind (facing east/southeast).
+
+The boat swings depending on the wind direction. Make sure the boat does not hit the dock (or other boats).
+
+---
+
+## Stop 2: Rose Island Reef
+
+![Rose Island Overview](../../img/routes/S2%20-%20Reef%20Rose%20Island%20-%20Overview.png)
+
+It is a short trip from Lower Harbour to Rose Island Reef.
+
+Watch for shallow areas and reefs around the island.
+
+This route is preferred in calm weather.
+
+### Stop 2: Rose Island Anchoring
+
+The reef is marked on some maps.
+
+Some areas have many fish; others have almost none.
+
+1. **Most fish.** Usually taken by other boats in busy season.
+2. **Many fish.**
+3. **Small reef, less popular with smaller boats.** Sometimes has turtles and lobsters. Used during busy season when Area 1 is taken.
+4. **Very few or no fish.**
+
+### Anchor East of the Best Reef
+
+![Anchor Area 1](../../img/routes/S2%20-%20Reef%20Rose%20Island%20-%20A1.png)
+
+Position the boat at the anchor mark. The dark spot on the port side is visible in the water, and can be used as a reference.
+
+The bottom is sandy. The depth is 4–5m.
+
+In stronger winds (15 kts) the anchor can drag (stern of the boat drifting into the reef — not good), so a crew member is to check the anchor in water, and if needed secure it by hand.
+
+### Anchor Alongside the Reef
+
+![Anchor Area 2](../../img/routes/S2%20-%20Reef%20Rose%20Island%20-%20A2.png)
+
+![Anchor Area 3](../../img/routes/S2%20-%20Reef%20Rose%20Island%20-%20A3.png)
+
+### Lunch Area near Rose Island
+
+![Lunch Spot](../../img/routes/S2%20-%20Reef%20Rose%20Island%20-%20Lunch%20Spot.png)
+
+---
+
+## Stop 3: Pig Beach
+
+![Pig Lovers Overview](../../img/routes/S3%20-%20Pig%20Lovers%20-%20Overview.png)
+
+![Pig Lovers Dock and Approach](../../img/routes/S3%20-%20Pig%20Lovers%20-%20Dock%20and%20Approach.png)
+
+After unloading guests, the vessel usually leaves the dock and anchors nearby.
+
+---
+
+## Full Routes & Back Up Stops
+
+This section presents the complete routes. It also introduces back-up turtle, snorkeling, and pig beach stops that can be used depending on wind conditions.
+
+### Full Route #1 (Short)
+
+![Route 1 - Shortest Distance](../../img/routes/R1%20-%20Shortest%20Distance%20Best%20Places.png)
+
+This route goes through the best spots using the shortest distance.
+
+Use it in calm weather with a full boat, or when some guests came in late.
+
+### Full Route #1 (Scenic)
+
+![Route 1 - Scenic](../../img/routes/R1%20-%20Scenic%20Best%20Places.png)
+
+This route goes through the same stops but takes a more scenic path.
+
+Use it when weather and time is not a factor.
+
+### Full Route #2 (Southern)
+
+![Route 2 - Southern](../../img/routes/R2%20-%20Southern.png)
+
+This route is short and allows use of the islands as protection from winds coming from the north (good protection) and from the east (compromise).
+
+The regular Stop #2 is often inaccessible due to winds and waves.
+
+An alternative Stop #2b is located by the Pig Beach (Stop #3).
+
+#### Stop 2b - Athol Reef
+
+![Athol Reef - Google Map](../../img/routes/S2b%20-%20Reef%20Athol%20-%20Google%20Map.png)
+
+![Athol Reef - Satellite](../../img/routes/S2b%20-%20Reef%20Athol%20-%20Satellite.png)
+
+### Full Route #3 (Northern)
+
+![Route 3 - Northern](../../img/routes/R3%20-%20Northern.png)
+
+This route provides protection from winds from the north.
+
+#### Stop 1b: Green Cay (Turtles) — depth: 1 meter to keel
+
+![Green Cay - Satellite](../../img/routes/S1b%20-%20Green%20Cay%20-%20Satellite.png)
+
+Approach from the outside; the waters near the island are shallow.
+
+Pick a sand spot. There are a few surrounded by grass (the anchor won't catch in grass).
+
+The boat should end up in line with the old and destroyed dock (port side).
+
+> Note: In strong winds, a crew member is to secure anchor by hand.
+
+Turtles are spread over a large area around the boat.
+
+#### Stop 3b: Pig Beach - Banana
+
+![Banana Pig Beach - Satellite](../../img/routes/S3b%20-%20Banana%20Pig%20Beach%20-%20Satellite.png)
+
+Sometimes the main pig beach (Pig Lovers, Stop 1) is closed due to weather or low bookings.
+
+There are a number of other pig beaches in the area. The Banana Pig Beach is called Banana because they come and pick people up on a banana boat.
+
+For all other beaches we would need to use a dinghy.
+
+The Banana Pig Beach is easy to find and access. The water is relatively shallow and transparent.
