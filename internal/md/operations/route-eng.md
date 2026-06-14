@@ -1,11 +1,33 @@
+
+
+
 # Route - ENG
 
 **Contents:**
-[Overview](#overview) · [Marina to Pick Up](#marina-to-guest-pick-up) · [Stop 1: Lower Harbour](#stop-1-turtles-at-lower-harbour) · [Stop 2: Rose Island Reef](#stop-2-rose-island-reef) · [Stop 3: Pig Beach](#stop-3-pig-beach) · [Full Routes & Back Up Stops](#full-routes--back-up-stops)
+
+- [Overview of the area and stops](#overview)
+- [Marina to Guest Pick Up (Montague Beach)](#marina-to-guest-pick-up)
+- [Stop 1: Turtles at Lower Harbour](#stop-1-turtles-at-lower-harbour)
+  - [Lower Harbour (Satellite)](#lower-harbour-satellite)
+  - [Lower Harbour - Anchoring](#lower-harbour---anchoring)
+- [Stop 2: Rose Island Reef](#stop-2-rose-island-reef)
+  - [Stop 2: Rose Island Anchoring](#stop-2-rose-island-anchoring)
+  - [Anchor east of the best reef](#anchor-east-of-the-best-reef)
+  - [Anchor alongside the reef](#anchor-alongside-the-reef)
+  - [Lunch Area near Rose Island](#lunch-area-near-rose-island)
+- [Stop 3: Pig Beach](#stop-3-pig-beach)
+- [Full Routes & Back Up Stops](#full-routes--back-up-stops)
+  - [Full Route #1 (Short)](#full-route-1-short)
+  - [Full Route #1 (Scenic)](#full-route-1-scenic)
+  - [Full Route #2 (Southern)](#full-route-2-southern)
+  - [Stop 2b - Athol Reef](#stop-2b---athol-reef)
+  - [Full Route #3 (Northern)](#full-route-3-northern)
+  - [Stop 1b: Green Cay (Turtles); depth: 1 m / 3 ft to keel](#stop-1b-green-cay-turtles-depth-1-m--3-ft-to-keel)
+  - [Stop 3b: Banana Pig Beach](#stop-3b-pig-beach---banana)
 
 ---
 
-## Overview
+## Overview of the area and stops
 
 ![Overview of stops](../../img/routes/Overview%20-%20Stops.png)
 
@@ -31,9 +53,11 @@ The tour ends at Pig Beach. There are 4 locations. Only 2 main locations are use
 
 ---
 
-## Marina to Guest Pick Up
+## Marina to Guest Pick Up (Montague Beach)
 
 ![Montague Dock](../../img/routes/Montague%20Dock.png)
+
+[View on C-MAP](https://appchart.c-map.com/redirect-route.html?id=EFBmVHbtf&key=WwxVtY5RzWhvRkeXZ2RxTit2sEncfIFl)
 
 Leave from Bayshore Marina.
 
@@ -73,9 +97,9 @@ Approach the anchoring spot along your course.
 
 The turtles live near a reef (marked on the image).
 
-The water depth is about 1 meter (from keel to bottom).
+The water depth is about 1 m / 3 ft (from keel to bottom).
 
-In winds above 12 knots: a crew member must go into the water and secure the anchor by hand. There is not much room for the chain.
+In winds above 12 kts / 22 km/h / 6 m/s: a crew member must go into the water and secure the anchor by hand. There is not much room for the chain.
 
 > Note: There is a small reef nearby, but it has very few fish. It is not usually worth visiting. An exception is when you have extra time and need to keep guests busy.
 
@@ -107,10 +131,10 @@ The reef is marked on some maps.
 
 Some areas have many fish; others have almost none.
 
-1. **Most fish.** Usually taken by other boats in busy season.
-2. **Many fish.**
-3. **Small reef, less popular with smaller boats.** Sometimes has turtles and lobsters. Used during busy season when Area 1 is taken.
-4. **Very few or no fish.**
+1. Most fish. Usually taken by other boats in busy season.
+2. Many fish.
+3. Small reef, less popular with smaller boats. Sometimes has turtles and lobsters. Used during busy season when Area 1 is taken.
+4. Very few or no fish.
 
 ### Anchor East of the Best Reef
 
@@ -118,9 +142,9 @@ Some areas have many fish; others have almost none.
 
 Position the boat at the anchor mark. The dark spot on the port side is visible in the water, and can be used as a reference.
 
-The bottom is sandy. The depth is 4–5m.
+The bottom is sandy. The depth is 4–5 m / 13–16 ft.
 
-In stronger winds (15 kts) the anchor can drag (stern of the boat drifting into the reef — not good), so a crew member is to check the anchor in water, and if needed secure it by hand.
+In stronger winds (15 kts / 28 km/h / 8 m/s) the anchor can drag (stern of the boat drifting into the reef — not good), so a crew member is to check the anchor in water, and if needed secure it by hand.
 
 ### Anchor Alongside the Reef
 
@@ -152,6 +176,8 @@ This section presents the complete routes. It also introduces back-up turtle, sn
 
 ![Route 1 - Shortest Distance](../../img/routes/R1%20-%20Shortest%20Distance%20Best%20Places.png)
 
+[View on C-MAP](https://appchart.c-map.com/redirect-route.html?id=Gui1RL9CH&key=GN6ZAA79GRL8LflBDwfGBktnF224MBPh)
+
 This route goes through the best spots using the shortest distance.
 
 Use it in calm weather with a full boat, or when some guests came in late.
@@ -160,6 +186,8 @@ Use it in calm weather with a full boat, or when some guests came in late.
 
 ![Route 1 - Scenic](../../img/routes/R1%20-%20Scenic%20Best%20Places.png)
 
+[View on C-MAP](https://appchart.c-map.com/redirect-route.html?id=QHV_Fp9sB&key=p8RfFT02LnBxYBHjyLh8dILvpp4NpVCO)
+
 This route goes through the same stops but takes a more scenic path.
 
 Use it when weather and time is not a factor.
@@ -167,6 +195,8 @@ Use it when weather and time is not a factor.
 ### Full Route #2 (Southern)
 
 ![Route 2 - Southern](../../img/routes/R2%20-%20Southern.png)
+
+[View on C-MAP](https://appchart.c-map.com/redirect-route.html?id=DRjsgm8dh&key=L3REK5cGl1QX0T5Mesuiy6opvCrGa81D)
 
 This route is short and allows use of the islands as protection from winds coming from the north (good protection) and from the east (compromise).
 
@@ -184,9 +214,11 @@ An alternative Stop #2b is located by the Pig Beach (Stop #3).
 
 ![Route 3 - Northern](../../img/routes/R3%20-%20Northern.png)
 
+[View on C-MAP](https://appchart.c-map.com/redirect-route.html?id=v76HszhZT&key=114BWK3xnvxyHm9PqZJgezwins7l4odq)
+
 This route provides protection from winds from the north.
 
-#### Stop 1b: Green Cay (Turtles) — depth: 1 meter to keel
+#### Stop 1b: Green Cay (Turtles) — depth: 1 m / 3 ft to keel
 
 ![Green Cay - Satellite](../../img/routes/S1b%20-%20Green%20Cay%20-%20Satellite.png)
 
@@ -200,10 +232,9 @@ The boat should end up in line with the old and destroyed dock (port side).
 
 Turtles are spread over a large area around the boat.
 
-#### Stop 3b: Pig Beach - Banana
+#### Stop 3b: Banana Pig Beach
 
-![Banana Pig Beach - Satellite](../../img/routes/S3b%20-%20Banana%20Pig%20Beach%20-%20Satellite.png)
-
+![Banana Pig Beach - Overview](../../img/routes/S3b%20-%20Banana%20Pig%20Beach%20-%20Overview.png)
 Sometimes the main pig beach (Pig Lovers, Stop 1) is closed due to weather or low bookings.
 
 There are a number of other pig beaches in the area. The Banana Pig Beach is called Banana because they come and pick people up on a banana boat.
@@ -211,3 +242,5 @@ There are a number of other pig beaches in the area. The Banana Pig Beach is cal
 For all other beaches we would need to use a dinghy.
 
 The Banana Pig Beach is easy to find and access. The water is relatively shallow and transparent.
+
+![Banana Pig Beach - Satellite](../../img/routes/S3b%20-%20Banana%20Pig%20Beach%20-%20Satellite.png)
