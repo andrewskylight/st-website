@@ -62,3 +62,29 @@ hr { border: none; border-top: 1px solid #ddd; margin: 2.5rem 0; }
 }
 .cmap-link:visited { color: #fff; }
 .cmap-link:hover { background: #004499; }
+
+/* index.html */
+.section { margin: 2rem 0; }
+.section-title {
+  font-size: 0.75rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #888;
+  margin-bottom: 0.5rem;
+}
+.section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.section ul li {
+  padding: 0.3rem 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+.section ul li:last-child { border-bottom: none; }
+.section ul li a {
+  text-decoration: none;
+  font-size: 1rem;
+}
+.section ul li a:hover { text-decoration: underline; }
