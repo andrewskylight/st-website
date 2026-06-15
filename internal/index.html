@@ -12,15 +12,30 @@
 <h1>Phoenix — Internal</h1>
 <p>Crew reference pages. Not for public distribution.</p>
 
+<input type="search" id="search" placeholder="Filter links…" autocomplete="off">
+
 <hr>
 
 <div class="section">
   <div class="section-title">Operations</div>
   <ul>
-    <li><a href="operations/routes-eng.html">Route — ENG</a></li>
-    <li><a href="operations/routes-spa.html">Route — ESP</a></li>
+    <li><a href="operations/routes-eng.html">Routes — ENG</a></li>
+    <li><a href="operations/routes-spa.html">Rutas — ESP</a></li>
   </ul>
 </div>
+
+<script>
+  document.getElementById('search').addEventListener('input', function () {
+    const query = this.value.toLowerCase();
+    document.querySelectorAll('.section li').forEach(function (li) {
+      li.style.display = li.textContent.toLowerCase().includes(query) ? '' : 'none';
+    });
+    document.querySelectorAll('.section').forEach(function (section) {
+      const visible = Array.from(section.querySelectorAll('li')).some(li => li.style.display !== 'none');
+      section.style.display = visible ? '' : 'none';
+    });
+  });
+</script>
 
 </body>
 </html>
