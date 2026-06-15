@@ -113,6 +113,9 @@ The wind usually blows around the island from the east. The boat is anchored bow
 
 The boat swings depending on the wind direction. Make sure the boat does not hit the dock (or other boats).
 
+![Lower Harbour Anchoring 3](<../../img/routes/S1 - Lower Harbour - Anchoring 3.jpg>)
+In different wind conditions, these alternative anchoring positions may be used.
+
 ---
 
 ## Stop 2: Rose Island Reef
