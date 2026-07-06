@@ -9,6 +9,7 @@
     Yamaha STORE: !remember we have credit there
 
 ## CURRENT ITEMS:
+    Adjust Autopilot so that p70 control head displays properly when the rudder is in neutral position (currently it has port offset)
     Fix EPRB device with batteries
     Engine / saildrive oil change at 1000hr
     Check & maybe repalce anode on the water tank (Room 1, under bed)
