@@ -6,7 +6,7 @@
     - output seal
     - saildrive showed seawater a number of times;
     - prioritize for seal change
-- Yamaha STORE: !remember we have credit there
+- Yamaha STORE: remember we have credit there!
 
 ## CURRENT ITEMS🔧:
 - Repair shore power cable (notify Andrew if cannot be repaired)
