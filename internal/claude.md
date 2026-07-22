@@ -48,3 +48,9 @@
 
 - Add both ENG and ESP links whenever a new page pair is created
 - Group links under a `<div class="section">` with a `<div class="section-title">` label
+
+## maintenance
+
+- collect any specific rules about maintenance section here
+- maintenance will soon include pictures
+- proof read and suggest edits to source maintenance-master.md file
