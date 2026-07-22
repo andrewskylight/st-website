@@ -884,6 +884,17 @@
             // other options
         });
     </script>
+    <script>
+        // Re-scroll to hash after lazy images load (fixes anchor offset caused by lazy-loaded images)
+        window.addEventListener('load', function () {
+            if (window.location.hash) {
+                var target = document.querySelector(window.location.hash);
+                if (target) {
+                    target.scrollIntoView();
+                }
+            }
+        });
+    </script>
 </body>
 
 </html>
