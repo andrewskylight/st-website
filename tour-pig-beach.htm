@@ -885,12 +885,16 @@
         });
     </script>
     <script>
-        // Re-scroll to hash after lazy images load (fixes anchor offset caused by lazy-loaded images)
+        // Re-scroll to hash after all resources load.
+        // Lazy-loaded images have no height until loaded, so the browser scrolls
+        // to the wrong position on first load. This corrects it once images are ready.
         window.addEventListener('load', function () {
             if (window.location.hash) {
                 var target = document.querySelector(window.location.hash);
                 if (target) {
-                    target.scrollIntoView();
+                    var navbarOffset = 80;
+                    var y = target.getBoundingClientRect().top + window.scrollY - navbarOffset;
+                    window.scrollTo({ top: y });
                 }
             }
         });
