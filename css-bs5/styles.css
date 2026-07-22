@@ -187,3 +187,15 @@ li {
   color: var(--st-blue);
 }
 
+/* Reserve space for the async-loading Bokun booking widget to
+   prevent layout shift that breaks #anchor scrolling (e.g. #faq) */
+.bokunWidget {
+  min-height: 1180px;
+}
+
+@media (max-width: 576px) {
+  .bokunWidget {
+    min-height: 1000px;
+  }
+}
+
