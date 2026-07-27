@@ -4,6 +4,7 @@
 - Yamaha STORE: remember we have credit there!
 
 ## CURRENT ITEMS🔧:
+- Figure out wagon cart fix
 - Install edge washers on engine mounts (larger bolt that engine sits on; Andrew brought parts last time)
 - Repair shore power cable (notify Andrew if cannot be repaired)
 - Adjust Autopilot so that p70 control head displays properly when the rudder is in neutral position (currently it has port offset)
