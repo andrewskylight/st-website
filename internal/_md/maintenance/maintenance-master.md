@@ -7,7 +7,6 @@
 - Report on the quality of the antislip mounts that were brought in last time
 - Install edge washers on engine mounts (larger bolt that engine sits on; Andrew brought parts last time)
 - Repair shore power cable (notify Andrew if cannot be repaired)
-- Adjust Autopilot so that p70 control head displays properly when the rudder is in neutral position (currently it has port offset)
 - Fix EPIRB device with batteries
 - Check & maybe replace anode on the water tank (Room 1, under bed)
 - Redo green labels for room numbers & compartments
