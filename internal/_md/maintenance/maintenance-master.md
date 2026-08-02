@@ -2,15 +2,16 @@
 
 ## MONITOR🧐:
 - Yamaha STORE: remember we have credit there!
+- Report on the quality of the antislip mounts that were brought in last time
+- Air Conditioner seawater input for leaks
 
 ## CURRENT ITEMS🔧:
-- Report on the quality of the antislip mounts that were brought in last time
 - Install edge washers on engine mounts (larger bolt that engine sits on; Andrew brought parts last time)
 - Repair shore power cable (notify Andrew if cannot be repaired)
 - Fix EPIRB device with batteries
 - Check & maybe replace anode on the water tank (Room 1, under bed)
 - Redo green labels for room numbers & compartments
-- Trim up sail so it does not damage the sunbrella
+- Trim up sail so it does not damage the Sunbrella
 - Bring diving tanks back to PHX (@Dave, @Andrew)
 
 ## NO TOUR DAY⛵:
@@ -31,4 +32,5 @@
 
 ## WAITING FOR PARTS⏳:
 - Change three way switch near the fresh water pump
+
 ## IDEAS💡:
