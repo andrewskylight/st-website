@@ -6,11 +6,16 @@
 - Air Conditioner seawater input for leaks
 
 ## CURRENT ITEMS🔧:
+- Recommend action for service batteries:
+    a) leave until next year
+    b) separate anchor battery (Lifo4)
+    c) change service batteries this year
+    d) provide your own suggestion
 - Install edge washers on engine mounts (larger bolt that engine sits on; Andrew brought parts last time)
 - Repair shore power cable (notify Andrew if cannot be repaired)
 - Fix EPIRB device with batteries
-- Check & maybe replace anode on the water tank (Room 1, under bed)
 - Redo green labels for room numbers & compartments
+- Replace anode on hot water tank (Room 1, under bed)
 - Trim up sail so it does not damage the Sunbrella
 - Bring diving tanks back to PHX (@Dave, @Andrew)
 
