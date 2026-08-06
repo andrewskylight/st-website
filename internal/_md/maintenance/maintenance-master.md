@@ -16,6 +16,7 @@
 - Install edge washers on engine mounts (larger bolt that engine sits on; Andrew brought parts last time)
 - Check & maybe replace anode on the water tank (Room 1, under bed)
 - Redo green labels for room numbers & compartments
+- Replace anode on hot water tank (Room 1, under bed)
 - Trim up sail so it does not damage the Sunbrella
 - Bring diving tanks back to PHX (@Dave, @Andrew)
 
