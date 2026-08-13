@@ -8,7 +8,10 @@
       "Bash(python3:*)",
       "Bash(node -e:*)",
       "Edit(**/*.html)",
-      "Write(**/*.html)"
+      "Write(**/*.html)",
+      "Edit(**/maintenance-master.md)",
+      "Bash(git add internal/*)",
+      "Bash(git commit -m*)"
     ],
     "deny": [],
     "ask": []
