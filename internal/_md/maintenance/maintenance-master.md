@@ -5,9 +5,12 @@
 - Air Conditioner seawater input for leaks
 
 ## CURRENT ITEMS🔧:
+- Fix EPIRB device with new batteries
+- Install SyncThing on tablet
 - Install shutoff valve on A/C seawater through hull input
-- Repair shore power cable (notify Andrew if cannot be repaired)
-- Fix EPIRB device with batteries
+- Check Air Conditioner current draw (start with Room 4)
+- Send measurements for water catch compartments in the kitchen area
+- Check Air conditioner shore power cord temperature without sun being a variable
 - Install edge washers on engine mounts (larger bolt that engine sits on)
 - Redo green labels for room numbers & compartments
 - Replace anode on hot water tank (Room 1, under bed)
