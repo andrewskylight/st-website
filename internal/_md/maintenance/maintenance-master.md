@@ -2,19 +2,16 @@
 
 ## MONITOR🧐:
 - Yamaha STORE: remember we have credit there!
-- Report on the quality of the antislip mounts that were brought in last time
 - Air Conditioner seawater input for leaks
 
 ## CURRENT ITEMS🔧:
-- Provide recommendation for house/service batteries:
-    a) leave battery until next year (they are one year old)
-    b) explore adding a LiFo4 battery for anchor motor (dedicated; at "generator" compartment)
-    c) replace all service battery
-    d) suggest your rown recommendation
-- Repair shore power cable (notify Andrew if cannot be repaired)
-- Fix EPIRB device with batteries
-- Install edge washers on engine mounts (larger bolt that engine sits on; Andrew brought parts last time)
-- Check & maybe replace anode on the water tank (Room 1, under bed)
+- Fix EPIRB device with new batteries
+- Install SyncThing on tablet
+- Install shutoff valve on A/C seawater through hull input
+- Check Air Conditioner current draw (start with Room 4)
+- Send measurements for water catch compartments in the kitchen area
+- Check Air conditioner shore power cord temperature without sun being a variable
+- Install edge washers on engine mounts (larger bolt that engine sits on)
 - Redo green labels for room numbers & compartments
 - Replace anode on hot water tank (Room 1, under bed)
 - Trim up sail so it does not damage the Sunbrella

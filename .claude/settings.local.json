@@ -6,9 +6,28 @@
       "WebFetch(domain:127.0.0.1)",
       "WebFetch(domain:sailtomorrow.com)",
       "Bash(python3:*)",
-      "Bash(node -e:*)"
+      "Bash(node -e:*)",
+      "Edit(**/*.html)",
+      "Write(**/*.html)",
+      "Edit(**/maintenance-master.md)",
+      "Bash(git add internal/*)",
+      "Bash(git commit -m*)"
     ],
     "deny": [],
     "ask": []
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "if": "Bash(git push:*)",
+            "command": "files=$(git diff --name-only @{u}..HEAD 2>/dev/null); if [ -z \"$files\" ]; then echo '{\"hookSpecificOutput\":{\"hookEventName\":\"PreToolUse\",\"permissionDecision\":\"ask\",\"permissionDecisionReason\":\"No unpushed commits detected; confirming manually\"}}'; elif printf '%s\\n' \"$files\" | grep -qvE '^internal/(maintenance/|_md/maintenance/)'; then echo '{\"hookSpecificOutput\":{\"hookEventName\":\"PreToolUse\",\"permissionDecision\":\"ask\",\"permissionDecisionReason\":\"Push includes non-maintenance changes\"}}'; else echo '{\"hookSpecificOutput\":{\"hookEventName\":\"PreToolUse\",\"permissionDecision\":\"allow\",\"permissionDecisionReason\":\"Maintenance-only push\"}}'; fi"
+          }
+        ]
+      }
+    ]
   }
 }
