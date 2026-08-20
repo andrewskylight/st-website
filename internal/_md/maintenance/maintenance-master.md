@@ -5,16 +5,15 @@
 - Air Conditioner seawater input for leaks
 
 ## CURRENT ITEMS🔧:
-- Fix EPIRB device with new batteries
-- Install SyncThing on tablet
-- Install shutoff valve on A/C seawater through hull input
-- Check Air Conditioner current draw (start with Room 4)
-- Send measurements for water catch compartments in the kitchen area
-- Check Air conditioner shore power cord temperature without sun being a variable
-- Install edge washers on engine mounts (larger bolt that engine sits on)
-- Redo green labels for room numbers & compartments
+- Return starlink
+- Repair or get repaired the 110V/20A outlet on the shore power pylon
 - Replace anode on hot water tank (Room 1, under bed)
+- Install shutoff valve on A/C seawater through hull input
+- Install SyncThing on tablet
+- Check Air Conditioner current draw (start with Room 4)
+- Install edge washers on engine mounts (larger bolt that engine sits on)
 - Trim up sail so it does not damage the Sunbrella
+- Redo green labels for room numbers & compartments
 - Bring diving tanks back to PHX (@Dave, @Andrew)
 
 ## NO TOUR DAY⛵:
@@ -34,6 +33,7 @@
 - Carpentry: close top of the bar area (winches, old air conditioner)
 
 ## WAITING FOR PARTS⏳:
+- Fix EPIRB device with new batteries
 - Change three way switch near the fresh water pump
 
 ## IDEAS💡:
