@@ -3,6 +3,8 @@
 ## High Level Picture
 The most important thing for the chef is guests' lunch.
 Followed by crew food, then shopping.
+![The chef at work](../../img/kitchen/chef-at-work.jpg)
+
 
 Chef's tasks throughout the day can be separated like so:
 
@@ -88,7 +90,7 @@ This allows the team to return to the marina with most of the work already compl
 This approach greatly reduces the workload at the end of the day, especially after working in high temperatures, completing post-tour cleaning, and making grocery runs, while also ensuring the crew does not have dinner too late in the evening.
 
 **Reference Images:**
-![Rice measuring cup](img/rice-measuring-cup.jpg)
+![Rice measuring cup](../../img/kitchen/rice-measuring-cup.jpg)
 
 
 
@@ -106,7 +108,7 @@ A time-ordered reference of the full "PHX-Kitchen" WhatsApp chat (July 4 – Aug
 | 8:39 a.m. | Andrew: Cristian. Let's skip crew meals and shopping right now. And first focus only on the tour. For today, let's just send pictures of things that are happening as they are. With some descriptive comments. This is a high-level sketch that marks the territory. |
 | 8:39 a.m. | Cristian: Ok. Throughout the day we'll see how things go. |
 | 8:40 a.m. | Cristian: Guest menu: Rice — Moros y Cristianos; Shredded chicken in sauce; Vegetables |
-| 8:41 a.m. | Andrew: ![Guest Lunch](img/guest-lunch-20260704.jpg) |
+| 8:41 a.m. | Andrew: ![Guest Lunch](../../img/kitchen/guest-lunch-20260704.jpg) |
 | 8:42 a.m. | Yordano: Ok, it has a good presentation. |
 | 8:43 a.m. | Andrew: Goal — Time: food on the table by 12 noon. |
 | 8:45 a.m. | Cristian: We always make something different for the crew at lunch, since eating the same chicken every day gets pretty unpleasant. |
@@ -115,12 +117,12 @@ A time-ordered reference of the full "PHX-Kitchen" WhatsApp chat (July 4 – Aug
 | 8:48 a.m. | Andrew: Right now Yordano doesn't know how to light the marine stove. So focus on the basics first. We'll add the crew details later. |
 | 8:49 a.m. | Yordano: As the days go by I think it'll become adaptable, but the priority is the clients. |
 | 8:49 a.m. | Yordano: Ok, please tell me how it works. |
-| 8:52 a.m. | Andrew: ![Marine stove](img/marine-stove.jpg) It's much easier to show than to explain, but in short: press and turn the gas knob, then light it (igniter button or a lighter), and **keep holding the knob pressed down.** The unit has a built-in safety mechanism — it automatically cuts the gas if the burner is cold. To light it you need to keep the gas flowing manually, holding the knob down, until the burner heats up. Turn and hold the knob down for 5 seconds (or more). |
+| 8:52 a.m. | Andrew: ![Marine stove](../../img/kitchen/marine-stove.jpg) It's much easier to show than to explain, but in short: press and turn the gas knob, then light it (igniter button or a lighter), and **keep holding the knob pressed down.** The unit has a built-in safety mechanism — it automatically cuts the gas if the burner is cold. To light it you need to keep the gas flowing manually, holding the knob down, until the burner heats up. Turn and hold the knob down for 5 seconds (or more). |
 | 8:54 a.m. | Cristian: It's pretty similar to the conventional stoves used in hotels and big businesses. |
 | 8:55 a.m. | Cristian: What's different is that sometimes the boat rocks side to side, and you need to keep that in mind. |
 | 8:55 a.m. | Yordano: Right. |
 | 8:56 a.m. | Andrew: The boat starts moving to pick up passengers around 9 a.m. |
-| 8:57 a.m. | Andrew: ![Boat waiting at pickup point](img/boat-waiting-at-pickup.jpg) The boat arrives here and waits about 15–20 minutes. |
+| 8:57 a.m. | Andrew: ![Boat waiting at pickup point](../../img/kitchen/boat-waiting-at-pickup.jpg) The boat arrives here and waits about 15–20 minutes. |
 | 8:58 a.m. | Andrew: When the boat is moving... there's no power coming from shore (marina or generator). Electricity supply is limited. It comes only from the boat's batteries. Not much. |
 | 8:59 a.m. | Andrew: Water comes from the boat's water tanks. Limited supply. Enough for a typical tour, but not unlimited. |
 | 8:59 a.m. | Yordano: So from that point on we have to use gas. |
@@ -136,32 +138,32 @@ A time-ordered reference of the full "PHX-Kitchen" WhatsApp chat (July 4 – Aug
 | 9:40 a.m. | Andrew: The next 30 minutes will have distractions. I'll detail them here. |
 | 9:57 a.m. | Andrew: Right now, the crew is doing the introduction. The chef comes out of the kitchen and greets them. For the most part, the chef stays quiet. The chef's goal is to find out if there are vegans, vegetarians, or people with allergies. If the crew forgets to ask, the chef should remind them to ask. |
 | 9:57 a.m. | Yordano: Important |
-| 10:06 a.m. | Andrew: ![Passenger introduction](img/passenger-introduction.jpg) |
+| 10:06 a.m. | Andrew: ![Passenger introduction](../../img/kitchen/passenger-introduction.jpg) |
 | 10:07 a.m. | Andrew: Cristian during the introduction |
-| 10:11 a.m. | Andrew: ![The chef at work](img/chef-at-work.jpg) The chef is working |
+| 10:11 a.m. | Andrew: ![The chef at work](../../img/kitchen/chef-at-work.jpg) The chef is working |
 | 10:12 a.m. | Andrew: The boat is heading to the first stop, meaning this is the first place the boat will drop anchor. Historically, based on average wind conditions, this stretch of the day tends to be the most challenging in terms of boat stability — this is when there may or may not be waves. Once the boat reaches the first stop, conditions improve. |
 | 10:30 a.m. | Andrew: The boat has reached its first stop. Around this time, someone usually walks into the kitchen and says, "something smells great in here." |
 | 10:34 a.m. | Yordano: Send me pictures of the kitchen. |
 | 10:47 a.m. | Andrew: In due time. Cristian's probably busy. |
 | 10:47 a.m. | Andrew: The boat is moving to the 2nd stop. |
-| 11:23 a.m. | Andrew: ![Cooking at the stop](img/cooking-at-stop-02.jpg) |
-| 11:23 a.m. | Andrew: ![Cooking at the stop](img/cooking-at-stop-04.jpg) |
-| 11:23 a.m. | Andrew: ![Cooking at the stop](img/cooking-at-stop-03.jpg) |
-| 11:23 a.m. | Andrew: ![Cooking at the stop](img/cooking-at-stop-01.jpg) |
-| 11:23 a.m. | Andrew: ![Cooking at the stop](img/cooking-at-stop-05.jpg) |
-| 11:23 a.m. | Andrew: ![Cooking at the stop](img/cooking-at-stop-06.jpg) |
-| 11:23 a.m. | Andrew: ![Cooking at the stop](img/cooking-at-stop-07.jpg) |
-| 11:23 a.m. | Andrew: ![Cooking at the stop](img/cooking-at-stop-08.jpg) |
-| 11:24 a.m. | Andrew: ![Cooking at the stop](img/cooking-at-stop-10.jpg) |
-| 11:24 a.m. | Andrew: ![Cooking at the stop](img/cooking-at-stop-09.jpg) |
-| 11:24 a.m. | Andrew: ![Cooking at the stop](img/cooking-at-stop-11.jpg) |
-| 11:24 a.m. | Andrew: ![Cooking at the stop](img/cooking-at-stop-12.jpg) |
-| 11:24 a.m. | Andrew: ![Cooking at the stop](img/cooking-at-stop-13.jpg) |
-| 11:24 a.m. | Andrew: ![Cooking at the stop](img/cooking-at-stop-14.jpg) |
-| 12:04 p.m. | Andrew: ![Food ready — meat and rice covered](img/food-ready-meat-and-rice.jpg) Food ready for guests. Meat & Rice covered |
-| 12:12 p.m. | Andrew: ![Lunch ready for guests](img/lunch-ready-for-guests.jpg) Lunch ready for guests |
+| 11:23 a.m. | Andrew: ![Cooking at the stop](../../img/kitchen/cooking-at-stop-02.jpg) |
+| 11:23 a.m. | Andrew: ![Cooking at the stop](../../img/kitchen/cooking-at-stop-04.jpg) |
+| 11:23 a.m. | Andrew: ![Cooking at the stop](../../img/kitchen/cooking-at-stop-03.jpg) |
+| 11:23 a.m. | Andrew: ![Cooking at the stop](../../img/kitchen/cooking-at-stop-01.jpg) |
+| 11:23 a.m. | Andrew: ![Cooking at the stop](../../img/kitchen/cooking-at-stop-05.jpg) |
+| 11:23 a.m. | Andrew: ![Cooking at the stop](../../img/kitchen/cooking-at-stop-06.jpg) |
+| 11:23 a.m. | Andrew: ![Cooking at the stop](../../img/kitchen/cooking-at-stop-07.jpg) |
+| 11:23 a.m. | Andrew: ![Cooking at the stop](../../img/kitchen/cooking-at-stop-08.jpg) |
+| 11:24 a.m. | Andrew: ![Cooking at the stop](../../img/kitchen/cooking-at-stop-10.jpg) |
+| 11:24 a.m. | Andrew: ![Cooking at the stop](../../img/kitchen/cooking-at-stop-09.jpg) |
+| 11:24 a.m. | Andrew: ![Cooking at the stop](../../img/kitchen/cooking-at-stop-11.jpg) |
+| 11:24 a.m. | Andrew: ![Cooking at the stop](../../img/kitchen/cooking-at-stop-12.jpg) |
+| 11:24 a.m. | Andrew: ![Cooking at the stop](../../img/kitchen/cooking-at-stop-13.jpg) |
+| 11:24 a.m. | Andrew: ![Cooking at the stop](../../img/kitchen/cooking-at-stop-14.jpg) |
+| 12:04 p.m. | Andrew: ![Food ready — meat and rice covered](../../img/kitchen/food-ready-meat-and-rice.jpg) Food ready for guests. Meat & Rice covered |
+| 12:12 p.m. | Andrew: ![Lunch ready for guests](../../img/kitchen/lunch-ready-for-guests.jpg) Lunch ready for guests |
 | 12:26 p.m. | Andrew: Passengers are eating. The crew is helping — handing out forks, cleaning up any spills, addressing any needs. |
-| 12:57 p.m. | Andrew: ![After lunch service](img/after-lunch-service.jpg) After 41 guests |
+| 12:57 p.m. | Andrew: ![After lunch service](../../img/kitchen/after-lunch-service.jpg) After 41 guests |
 | 2:06 p.m. | Andrew: Crew is probably eating now |
 | 3:36 p.m. | Andrew: They are back to the marina |
 | 3:36 p.m. | Andrew: He cleans the kitchen before the boat returns |
@@ -170,8 +172,8 @@ A time-ordered reference of the full "PHX-Kitchen" WhatsApp chat (July 4 – Aug
 | 3:50 p.m. | Yordano: Of course, hygiene is important. |
 | 3:52 p.m. | Andrew: We will resume this chat on Monday. Tomorrow will be a busy day for Cristian |
 | 3:54 p.m. | Yordano: If the Internet is not good I will see it later |
-| 6:02 p.m. | Andrew: ![End of day](img/end-of-day-01.jpg) |
-| 6:02 p.m. | Andrew: ![End of day](img/end-of-day-02.jpg) |
+| 6:02 p.m. | Andrew: ![End of day](../../img/kitchen/end-of-day-01.jpg) |
+| 6:02 p.m. | Andrew: ![End of day](../../img/kitchen/end-of-day-02.jpg) |
 
 ## July 8, 2026
 
@@ -179,15 +181,15 @@ A time-ordered reference of the full "PHX-Kitchen" WhatsApp chat (July 4 – Aug
 |---|---|
 | 8:50 a.m. | Andrew: Let's resume this today |
 | 4:15 p.m. | Cristian: Going back to what we worked on today, I took some photos as evidence of the process. |
-| 4:15 p.m. | Cristian: ![Cooking process photo](img/cooking-process-03.jpg) |
-| 4:15 p.m. | Cristian: ![Cooking process photo](img/cooking-process-01.jpg) |
-| 4:15 p.m. | Cristian: ![Cooking process photo](img/cooking-process-02.jpg) |
+| 4:15 p.m. | Cristian: ![Cooking process photo](../../img/kitchen/cooking-process-03.jpg) |
+| 4:15 p.m. | Cristian: ![Cooking process photo](../../img/kitchen/cooking-process-01.jpg) |
+| 4:15 p.m. | Cristian: ![Cooking process photo](../../img/kitchen/cooking-process-02.jpg) |
 | 4:15 p.m. | Cristian: **Tour Guests' Lunch** — Chicken: boil 2 packs of Aurora chicken breasts for 35 minutes, then shred the cooked chicken. Beans: cook for 25 minutes until tender. Chicken Sauce: use the chicken broth to make the sauce, add tomato paste and season to taste, mix the shredded chicken into the sauce and cook 10 more minutes. Rice: use premium Jasmine rice because it yields more and has a better appearance — use 5 lb of rice and 1.5 lb of beans for each tour. Salad (per tour): 2 packs of lettuce, 4 cucumbers, 6 large tomatoes or 10 small tomatoes, 1 cabbage. Presentation: arrange and present the vegetables as attractively as possible so the meal looks appealing to the guests — there are many great salad presentation and decoration ideas on YouTube for inspiration. |
-| 4:16 p.m. | Cristian: ![Frozen chicken at the store](img/frozen-chicken-at-store.jpg) Chicken |
-| 4:17 p.m. | Cristian: ![Tomato paste cans](img/tomato-paste-cans.jpg) |
+| 4:16 p.m. | Cristian: ![Frozen chicken at the store](../../img/kitchen/frozen-chicken-at-store.jpg) Chicken |
+| 4:17 p.m. | Cristian: ![Tomato paste cans](../../img/kitchen/tomato-paste-cans.jpg) |
 | 4:18 p.m. | Cristian: Two of these |
-| 4:23 p.m. | Cristian: ![Tomato paste](img/tomato-paste.jpg) Tomato paste |
-| 4:26 p.m. | Cristian: ![Tour juice](img/tour-juice.jpg) This is the juice we prefer to buy |
+| 4:23 p.m. | Cristian: ![Tomato paste](../../img/kitchen/tomato-paste.jpg) Tomato paste |
+| 4:26 p.m. | Cristian: ![Tour juice](../../img/kitchen/tour-juice.jpg) This is the juice we prefer to buy |
 | 5:40 p.m. | Yordano: Hello, good afternoon, thank you for the tour details — I hadn't been able to respond, I had no electricity or internet. Thank you. |
 | 5:41 p.m. | Yordano: Very good information. |
 
@@ -209,7 +211,7 @@ A time-ordered reference of the full "PHX-Kitchen" WhatsApp chat (July 4 – Aug
 
 | Time | Event |
 |---|---|
-| 10:17 a.m. | Cristian: ![Rice measuring cup](img/rice-measuring-cup.jpg) Rice measuring cup |
+| 10:17 a.m. | Cristian: ![Rice measuring cup](../../img/kitchen/rice-measuring-cup.jpg) Rice measuring cup |
 | 10:31 a.m. | Andrew: The number represents the number of people [it serves]. |
 | 10:35 a.m. | Cristian: Yes, so you have a rough idea. |
 | 10:41 a.m. | Yordano: Sure, any info you think of, send it to me — it's always good. |
@@ -220,29 +222,29 @@ A time-ordered reference of the full "PHX-Kitchen" WhatsApp chat (July 4 – Aug
 
 | Time | Event |
 |---|---|
-| 1:07 p.m. | Yordano: ![Guest Lunch - Guests Eating](img/guest-lunch-guests-eating-20260717-1.jpg) |
-| 1:07 p.m. | Yordano: ![Guest Lunch - Guests Eating](img/guest-lunch-guests-eating-20260717-2.jpg) |
-| 1:07 p.m. | Yordano: ![Guest Lunch](img/guest-lunch-20260717-1.jpg) |
-| 1:07 p.m. | Yordano: ![Guest Lunch](img/guest-lunch-20260717-2.jpg) |
+| 1:07 p.m. | Yordano: ![Guest Lunch - Guests Eating](../../img/kitchen/guest-lunch-guests-eating-20260717-1.jpg) |
+| 1:07 p.m. | Yordano: ![Guest Lunch - Guests Eating](../../img/kitchen/guest-lunch-guests-eating-20260717-2.jpg) |
+| 1:07 p.m. | Yordano: ![Guest Lunch](../../img/kitchen/guest-lunch-20260717-1.jpg) |
+| 1:07 p.m. | Yordano: ![Guest Lunch](../../img/kitchen/guest-lunch-20260717-2.jpg) |
 | 1:08 p.m. | Andrew: Mix of pictures from yesterday (without guests) and today (after lunch started) |
 
 ## July 18, 2026
 
 | Time | Event |
 |---|---|
-| 12:07 p.m. | Yordano: ![Guest Lunch](img/guest-lunch-20260718.jpg) |
+| 12:07 p.m. | Yordano: ![Guest Lunch](../../img/kitchen/guest-lunch-20260718.jpg) |
 
 ## July 20, 2026
 
 | Time | Event |
 |---|---|
-| 12:10 p.m. | Yordano: ![Guest Lunch](img/guest-lunch-20260720.jpg) |
+| 12:10 p.m. | Yordano: ![Guest Lunch](../../img/kitchen/guest-lunch-20260720.jpg) |
 
 ## July 21, 2026
 
 | Time | Event |
 |---|---|
-| 12:15 p.m. | Yordano: ![Guest Lunch](img/guest-lunch-20260721.jpg) |
+| 12:15 p.m. | Yordano: ![Guest Lunch](../../img/kitchen/guest-lunch-20260721.jpg) |
 | 1:10 p.m. | Group icon changed. |
 
 ## July 23, 2026
@@ -256,24 +258,24 @@ A time-ordered reference of the full "PHX-Kitchen" WhatsApp chat (July 4 – Aug
 
 | Time | Event |
 |---|---|
-| 12:13 p.m. | Yordano: ![Guest Lunch](img/guest-lunch-20260724.jpg) |
+| 12:13 p.m. | Yordano: ![Guest Lunch](../../img/kitchen/guest-lunch-20260724.jpg) |
 | 2:48 p.m. | Andrew: Current Version of lunch ... is 3.0 |
 | 2:48 p.m. | Andrew: Previous Lunch Version |
-| 2:48 p.m. | Andrew: ![Lunch Version 2.0](img/lunch-v2.jpg) Lunch Version 2.0 |
+| 2:48 p.m. | Andrew: ![Lunch Version 2.0](../../img/kitchen/lunch-v2.jpg) Lunch Version 2.0 |
 | 2:50 p.m. | Mila: 👍 |
-| 2:50 p.m. | Andrew: ![Lunch 1.0](img/lunch-v1.jpg) Lunch 1.0 |
+| 2:50 p.m. | Andrew: ![Lunch 1.0](../../img/kitchen/lunch-v1.jpg) Lunch 1.0 |
 
 ## July 25, 2026
 
 | Time | Event |
 |---|---|
-| 12:57 p.m. | Yordano: ![Photo](img/guest-lunch-20260725.jpg) |
+| 12:57 p.m. | Yordano: ![Photo](../../img/kitchen/guest-lunch-20260725.jpg) |
 
 ## July 27, 2026
 
 | Time | Event |
 |---|---|
-| 12:10 p.m. | Yordano: ![Photo](img/guest-lunch-20260727.jpg) |
+| 12:10 p.m. | Yordano: ![Photo](../../img/kitchen/guest-lunch-20260727.jpg) |
 | 12:58 p.m. | Andrew: Hi Yordano. At this point, we have a pretty good understanding of your ability to prepare lunch. Therefore, sending these pictures is optional. You can continue sending them, or you can stop — it's your choice. |
 
 ## Chef's Day — Details
