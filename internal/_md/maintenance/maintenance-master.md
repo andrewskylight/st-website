@@ -5,9 +5,10 @@
 - Air Conditioner seawater input for leaks
 
 ## CURRENT ITEMS🔧:
+- Repair Buggy Wheel (Luis)
+- Autopilot: Isolate the failed component (Carlos)
 - Install SyncThing on tablet (for music sync)
 - Check Air Conditioner current draw (start with Room 4)
-- Trim up sail so it does not damage the Sunbrella
 - Redo green labels for room numbers & compartments
 - Bring diving tanks back to PHX (@Dave, @Andrew)
 
@@ -18,10 +19,17 @@
 
 ## UPHOLSTERY (Bertha)☂️:
 - Shoe Bag (in progress)
-- Repair trampoline (in storage C1-5) => Give to Bertha for repairs
-(requires two days off or alternative solution)
 - Sunbrella: repair fabric
+    - Fabric removed
+    - Pick up arranged
+- Give **trampoline** to Bertha for repairs
+(requires two days off or alternative solution)
 - Repair white cushions on the roof
+  
+
+### Bertha:
+    - Give:   Sunbrella, trampoline
+    - Posses: Shoe Bag 
 
 ## CAPTURE (prioritized)📋:
 - Compartment M2 - possible water intrusion again :(
@@ -39,6 +47,9 @@
 - Anode & thermostat for hot water tank
 
 ## Recently repaired:
+✅ Kitchen utensils cleaned (Yordano)
+✅ Trim up sail so it does not damage the Sunbrella
+✅ Install edge washers on engine mounts (larger bolt that engine sits on) 9/1/26
 ✅ Install edge washers on engine mounts (larger bolt that engine sits on) 9/1/26
 ✅ Anode on hot water tank 9/1/26
 ✅ Hull repair: Port Bow Side ... damage from Pig Lovers dock
