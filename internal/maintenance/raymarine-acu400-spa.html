@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Raymarine ACU-400 Solución de Problemas — ESP | Phoenix Internal</title>
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<h1>Raymarine ACU-400 — Guía de solución de problemas</h1>
+
+<nav>
+  <strong>Contenido:</strong>
+  <ul>
+    <li><a href="#power">1. Alimentación y fusibles</a></li>
+    <li><a href="#leds">2. LED de estado</a></li>
+    <li><a href="#no-pilot">3. No Pilot / No Drive Detected</a></li>
+    <li><a href="#alarms">4. Alarmas de la unidad motriz y el gobierno</a></li>
+    <li><a href="#rudder">5. Sensor de referencia del timón</a></li>
+    <li><a href="#resets">6. Reinicios o apagados aleatorios</a></li>
+    <li><a href="#habits">7. Buenas prácticas</a></li>
+    <li><a href="#help">8. Cuándo pedir ayuda</a></li>
+    <li><a href="#sources">Fuentes</a></li>
+  </ul>
+</nav>
+
+<hr>
+
+<p><strong>Nota:</strong> Basado en las instrucciones de instalación Raymarine Evolution EV-1 / ACU (doc. 87180) y en experiencias de propietarios. Consulta siempre el manual más reciente en <a href="https://www.raymarine.com">www.raymarine.com</a>.</p>
+
+<p>La mayoría de los fallos del ACU-400 se deben a la alimentación, al cableado SeaTalkNG o al sistema de gobierno, más que a una avería de la unidad. Sigue las secciones en orden.</p>
+
+
+<h2 id="power">1. Alimentación y fusibles</h2>
+
+<ol>
+  <li><strong>Revisa los fusibles.</strong> El ACU usa fusibles de cuchilla estándar de automoción. Hay repuestos en la parte inferior de la tapa desmontable.
+    <ul>
+      <li>Fusible de alimentación principal: <strong>40 A</strong></li>
+      <li>Fusible SeaTalkNG: <strong>3 A</strong></li>
+      <li>Comprueba también el disyuntor del cuadro de distribución.</li>
+    </ul>
+  </li>
+  <li><strong>Mide la tensión con carga.</strong> Mide en los bornes de alimentación del ACU mientras alguien ordena un giro de banda a banda. Una batería puede marcar 12,6 V en reposo y caer mucho cuando arranca una bomba Tipo 2 o 3.
+    <ul>
+      <li>Un cable de sección insuficiente reduce la potencia a la unidad motriz y provoca fallos. En caso de duda, usa un calibre mayor.</li>
+      <li>La longitud que cuenta es la suma del tramo de alimentación y el tramo hasta la unidad motriz. Ejemplo: una unidad Tipo 3 a 12 V admite como máximo 5 m en total con cable de 10 mm² (8 AWG).</li>
+    </ul>
+  </li>
+  <li><strong>Inspecciona los bornes.</strong> Busca bornes flojos o corroídos, sobre todo en los bloques enchufables. Un cable negativo suelto en el conector es una causa conocida de "No Drive Detected".</li>
+  <li><strong>Comprueba la toma de tierra.</strong> El cable de drenaje (pantalla) debe ir al punto de tierra RF del barco o, si no existe, directamente al borne negativo de la batería.</li>
+  <li><strong>Usa una batería independiente.</strong> Raymarine recomienda alimentar el sistema desde una batería distinta a la de arranque, para evitar un comportamiento errático al arrancar el motor.</li>
+</ol>
+
+
+<h2 id="leds">2. LED de estado</h2>
+
+<ul>
+  <li><strong>ACU-400:</strong> el LED está debajo de la tapa de conexiones. Sus códigos de parpadeo específicos están en la sección 6.5 del manual de instalación Evolution actual.</li>
+  <li><strong>Sensor de rumbo EV-1:</strong></li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th>Patrón del LED</th>
+      <th>Significado</th>
+      <th>Acción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Verde fijo</td>
+      <td>Funcionamiento normal</td>
+      <td>Ninguna</td>
+    </tr>
+    <tr>
+      <td>1 destello verde largo, se repite cada 2 s</td>
+      <td>Inicializando (normalmente menos de 1 minuto)</td>
+      <td>Esperar</td>
+    </tr>
+    <tr>
+      <td>2 destellos rojos cortos, se repite cada 4 s</td>
+      <td>Sin conexión SeaTalkNG</td>
+      <td>Revisar alimentación, cables y conectores de la red</td>
+    </tr>
+    <tr>
+      <td>7 destellos rojos cortos, se repite cada 9 s</td>
+      <td>Conectado pero sin recibir datos</td>
+      <td>Contactar con Raymarine si persiste</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<h2 id="no-pilot">3. "No Pilot", "No Drive Detected" y fallos de comunicación</h2>
+
+<p>"No IPS (No Drive Detected)" indica que el EV-1 y el ACU han perdido la comunicación.</p>
+
+<ol>
+  <li><strong>Comprueba el interruptor de alimentación SeaTalkNG del ACU.</strong>
+    <ul>
+      <li><strong>ON:</strong> el ACU alimenta la troncal. No debe haber ninguna otra alimentación conectada.</li>
+      <li><strong>OFF:</strong> la troncal necesita su propia alimentación.</li>
+      <li>Tener dos fuentes de alimentación, o ninguna, es un error de instalación frecuente.</li>
+    </ul>
+  </li>
+  <li><strong>Revisa la troncal.</strong>
+    <ul>
+      <li>Exactamente dos terminadores, uno en cada extremo.</li>
+      <li>El punto de alimentación debe estar aproximadamente en el centro de la carga de la red.</li>
+    </ul>
+  </li>
+  <li><strong>Comprueba la fuente de rumbo.</strong> Si el MFD muestra la profundidad y otros datos pero no hay fuente de rumbo, sospecha del EV-1 o de su cable de derivación. Para "No Compass", desconecta y vuelve a conectar el cable SeaTalkNG del EV-1 para reiniciarlo.</li>
+  <li><strong>Barcos de 24 V:</strong> la alimentación SeaTalkNG y el embrague comparten un límite de 8 A a 12 V. Un embrague de 4 A deja solo 4 A para la red.</li>
+</ol>
+
+
+<h2 id="alarms">4. Alarmas de la unidad motriz y el gobierno</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Alarma</th>
+      <th>Causas probables</th>
+      <th>Qué revisar</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>DRIVE STOPPED</strong></td>
+      <td>El timón no se mueve en 20 s tras una orden; carga excesiva; límites del timón superados; reinicio por cableado defectuoso</td>
+      <td>Tensión de salida, conexiones en ambos extremos, unidad no bloqueada, gobierno bien sujeto</td>
+    </tr>
+    <tr>
+      <td><strong>CURRENT OVERLOAD</strong></td>
+      <td>Cortocircuito, unidad motriz o motor atascado o averiado, gobierno bloqueado</td>
+      <td>Desconectar la unidad y girar el timón a mano; en hidráulicos, buscar fugas, nivel bajo de aceite o aire</td>
+    </tr>
+    <tr>
+      <td><strong>STALL DETECTED</strong></td>
+      <td>Unidad defectuosa, fallo del gobierno, tiempo de banda a banda demasiado lento</td>
+      <td>Funcionamiento de la unidad, ajuste del tiempo de banda a banda</td>
+    </tr>
+    <tr>
+      <td><strong>CLUTCH OVERLOAD</strong></td>
+      <td>El embrague consume más de lo que suministra el ACU (máx. 4 A)</td>
+      <td>Consumo del embrague; posición del selector de tensión (las unidades Raymarine de 12 V y 24 V llevan <strong>embrague de 12 V</strong>)</td>
+    </tr>
+    <tr>
+      <td><strong>MOTOR POWER SWAPPED</strong></td>
+      <td>Cables del motor y de alimentación intercambiados</td>
+      <td>Desconectar la alimentación e intercambiarlos</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<h2 id="rudder">5. Sensor de referencia del timón</h2>
+
+<ul>
+  <li><strong>NO RUDDER REFERENCE:</strong> no se detecta el sensor o ha salido de su rango de 50°. Revisa la varilla de unión, el montaje y el cableado.</li>
+  <li><strong>Orden de bornes en el ACU-400:</strong> gris (pantalla), rojo, verde, azul.</li>
+  <li><strong>AUTO RELEASE</strong> también puede indicar un fallo del sensor de referencia del timón.</li>
+</ul>
+
+
+<h2 id="resets">6. Reinicios o apagados aleatorios</h2>
+
+<ol>
+  <li><strong>"Unexpected Hardware Reset":</strong> un evento externo (interruptor de reposo, cableado defectuoso) ha reiniciado los componentes. Revisa todo el cableado de alimentación. Una unidad motriz que hace caer la tensión mientras funciona es una causa típica.</li>
+  <li><strong>La unidad se apaga tras un rato y vuelve más tarde:</strong> probable sobrecalentamiento de un componente interno. Normalmente requiere el servicio técnico de Raymarine.</li>
+  <li><strong>Interruptor de reposo:</strong> desactiva el piloto sin cortar la alimentación a SeaTalkNG. Un interruptor defectuoso puede parecer un piloto averiado aunque las pantallas funcionen.</li>
+</ol>
+
+
+<h2 id="habits">7. Buenas prácticas</h2>
+
+<ul>
+  <li>Actualiza el software del p70/p70R, el EV-1 y el ACU desde tu MFD Raymarine.</li>
+  <li>Repite el asistente de configuración en puerto después de cualquier reparación, cambio de unidad motriz o ajuste del sensor del timón.</li>
+  <li>Mantén los cables del piloto a al menos 1 m de radios VHF, sus cables y antenas, y a unos 2 m de radios BLU (SSB).</li>
+  <li>El ACU-400 solo es resistente al goteo. No lo laves a presión y revisa el interior en busca de corrosión o agua.</li>
+</ul>
+
+
+<h2 id="help">8. Cuándo pedir ayuda</h2>
+
+<p>Puede que el ACU esté averiado si el fallo continúa aunque:</p>
+
+<ul>
+  <li>la tensión en los bornes es correcta con carga,</li>
+  <li>la red está bien alimentada y terminada, y</li>
+  <li>la unidad motriz funciona cuando se prueba por separado.</li>
+</ul>
+
+<p>La unidad no tiene piezas reparables por el usuario. Antes de contactar con el soporte de Raymarine o un distribuidor autorizado, ten a mano: nombre del producto, identificación, número de serie, versión de software y un esquema del sistema.</p>
+
+
+<h2 id="sources">Fuentes</h2>
+
+<ul>
+  <li><a href="https://ca.binnacle.com/pdf/Evolution%20EV-1%20and%20ACU%20Installation%20Instructions.pdf">Raymarine Evolution EV-1, ACU-100/200/300/400 — Instrucciones de instalación (87180)</a></li>
+  <li><a href="https://www.trawlerforum.com/threads/raymarine-experts-acu400-comm-problem.75747/">Trawler Forum — Problema de comunicación ACU400</a></li>
+  <li><a href="https://www.trawlerforum.com/threads/raymarine-autopilot-issue.56640/">Trawler Forum — Fallo del piloto automático Raymarine</a></li>
+  <li><a href="https://www.raymarine.com">Soporte Raymarine</a></li>
+</ul>
+
+</body>
+</html>

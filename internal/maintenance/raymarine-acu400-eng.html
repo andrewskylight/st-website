@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Raymarine ACU-400 Troubleshooting — ENG | Phoenix Internal</title>
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<h1>Raymarine ACU-400 — Troubleshooting Guide</h1>
+
+<nav>
+  <strong>Contents:</strong>
+  <ul>
+    <li><a href="#power">1. Power and Fuses</a></li>
+    <li><a href="#leds">2. Status LEDs</a></li>
+    <li><a href="#no-pilot">3. No Pilot / No Drive Detected</a></li>
+    <li><a href="#alarms">4. Drive and Steering Alarms</a></li>
+    <li><a href="#rudder">5. Rudder Reference</a></li>
+    <li><a href="#resets">6. Random Resets or Shutdowns</a></li>
+    <li><a href="#habits">7. Good Habits</a></li>
+    <li><a href="#help">8. When to Call for Help</a></li>
+    <li><a href="#sources">Sources</a></li>
+  </ul>
+</nav>
+
+<hr>
+
+<p><strong>Note:</strong> Based on the Raymarine Evolution EV-1 / ACU installation instructions (doc. 87180) and field reports from boat owners. Always check the latest manual at <a href="https://www.raymarine.com">www.raymarine.com</a>.</p>
+
+<p>Most ACU-400 problems come down to power, SeaTalkNG wiring, or the drive and steering hardware, rather than a failed unit. Work through the sections in order.</p>
+
+
+<h2 id="power">1. Power and Fuses</h2>
+
+<ol>
+  <li><strong>Check the fuses.</strong> The ACU uses standard automotive blade fuses. Spares are stored on the underside of the removable cover.
+    <ul>
+      <li>Main power fuse: <strong>40 A</strong></li>
+      <li>SeaTalkNG fuse: <strong>3 A</strong></li>
+      <li>Also check the breaker at your distribution panel.</li>
+    </ul>
+  </li>
+  <li><strong>Measure voltage under load.</strong> Measure at the ACU power terminals while someone commands a hard-over turn. A battery can read 12.6 V at rest and still sag badly when a Type 2 or 3 pump starts.
+    <ul>
+      <li>Undersized cable reduces power to the drive and causes malfunctions. If in doubt, use a heavier gauge.</li>
+      <li>Cable length counts as power run + drive run combined. Example: Type 3 drive on 12 V is limited to 0–5 m total with 10 mm² (8 AWG).</li>
+    </ul>
+  </li>
+  <li><strong>Inspect terminals.</strong> Look for loose or corroded screw terminals, especially the pluggable blocks. A loose negative wire in the connector is a known cause of "No Drive Detected".</li>
+  <li><strong>Check grounding.</strong> The drain (screen) wire should go to the boat's RF ground point, or directly to the negative battery terminal if there is no RF ground system.</li>
+  <li><strong>Use a separate battery.</strong> Raymarine recommends powering the system from a battery other than the engine-start battery, to avoid erratic behavior during cranking.</li>
+</ol>
+
+
+<h2 id="leds">2. Status LEDs</h2>
+
+<ul>
+  <li><strong>ACU-400:</strong> the LED is under the connector cover. Its specific flash codes are in section 6.5 of the current Evolution installation manual.</li>
+  <li><strong>EV-1 heading sensor:</strong></li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th>LED pattern</th>
+      <th>Meaning</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Solid green</td>
+      <td>Normal operation</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>1 long green flash, repeats every 2 s</td>
+      <td>Initializing (normally under 1 minute)</td>
+      <td>Wait</td>
+    </tr>
+    <tr>
+      <td>2 short red flashes, repeats every 4 s</td>
+      <td>No SeaTalkNG connection</td>
+      <td>Check network power, cables and connectors</td>
+    </tr>
+    <tr>
+      <td>7 short red flashes, repeats every 9 s</td>
+      <td>Connected but not receiving data</td>
+      <td>Contact Raymarine support if it persists</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<h2 id="no-pilot">3. "No Pilot", "No Drive Detected" and Communication Faults</h2>
+
+<p>"No IPS (No Drive Detected)" means the EV-1 and ACU have lost communication.</p>
+
+<ol>
+  <li><strong>Check the SeaTalkNG power switch on the ACU.</strong>
+    <ul>
+      <li><strong>ON:</strong> the ACU powers the backbone. No other power feed may be connected.</li>
+      <li><strong>OFF:</strong> the backbone needs its own separate power feed.</li>
+      <li>Two power sources, or none, is a common installation mistake.</li>
+    </ul>
+  </li>
+  <li><strong>Check the backbone.</strong>
+    <ul>
+      <li>Exactly two terminators, one at each end.</li>
+      <li>The power insertion point should sit near the middle of the network load.</li>
+    </ul>
+  </li>
+  <li><strong>Check the heading source.</strong> If the MFD shows depth and other data but no heading source, suspect the EV-1 or its spur cable. For "No Compass", unplug and reconnect the EV-1's SeaTalkNG cable to power cycle it.</li>
+  <li><strong>24 V boats:</strong> SeaTalkNG supply and clutch share an 8 A limit at 12 V. A 4 A clutch leaves only 4 A for the network.</li>
+</ol>
+
+
+<h2 id="alarms">4. Drive and Steering Alarms</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Alarm</th>
+      <th>Likely causes</th>
+      <th>What to check</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>DRIVE STOPPED</strong></td>
+      <td>No steering movement within 20 s of a command; excessive helm load; rudder limits exceeded; reset from bad wiring</td>
+      <td>Drive output voltage, connections at both ends, drive not stalled, steering system secure</td>
+    </tr>
+    <tr>
+      <td><strong>CURRENT OVERLOAD</strong></td>
+      <td>Short circuit, jammed or faulty drive/motor, steering lock-up</td>
+      <td>Disconnect drive and turn wheel by hand to feel for binding; on hydraulics check for leaks, low fluid, air in lines</td>
+    </tr>
+    <tr>
+      <td><strong>STALL DETECTED</strong></td>
+      <td>Faulty drive, steering fault, hard-over time set too slow</td>
+      <td>Drive operation, hard-over time setting</td>
+    </tr>
+    <tr>
+      <td><strong>CLUTCH OVERLOAD</strong></td>
+      <td>Clutch draws more current than the ACU supplies (max 4 A)</td>
+      <td>Clutch rating; clutch voltage switch setting (Raymarine 12 V and 24 V drives all use a <strong>12 V clutch</strong>)</td>
+    </tr>
+    <tr>
+      <td><strong>MOTOR POWER SWAPPED</strong></td>
+      <td>Motor and power cables on each other's terminals</td>
+      <td>Power off and swap them back</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<h2 id="rudder">5. Rudder Reference</h2>
+
+<ul>
+  <li><strong>NO RUDDER REFERENCE:</strong> sensor not detected, or it has moved outside its 50° operating range. Check linkage, mounting and wiring.</li>
+  <li><strong>ACU-400 terminal order:</strong> grey (screen), red, green, blue.</li>
+  <li><strong>AUTO RELEASE</strong> can also indicate a rudder reference fault.</li>
+</ul>
+
+
+<h2 id="resets">6. Random Resets or Shutdowns</h2>
+
+<ol>
+  <li><strong>"Unexpected Hardware Reset":</strong> an external event (sleep switch, faulty wiring) power-cycled the components. Inspect all power wiring. A drive pulling the voltage down while it runs is a classic cause.</li>
+  <li><strong>Unit dies after running and recovers later:</strong> likely overheating of an internal component. Usually requires Raymarine service.</li>
+  <li><strong>Sleep switch:</strong> it disables the pilot while keeping SeaTalkNG powered. A faulty switch can look like a dead pilot even though displays work.</li>
+</ol>
+
+
+<h2 id="habits">7. Good Habits</h2>
+
+<ul>
+  <li>Update software on the p70/p70R, EV-1 and ACU through your Raymarine MFD.</li>
+  <li>Re-run the dockside commissioning wizard after any repair, drive swap or rudder sensor adjustment.</li>
+  <li>Keep autopilot cables at least 1 m from VHF radios, their cables and antennas, and about 2 m from SSB radios.</li>
+  <li>The ACU-400 is only drip resistant. Never pressure-wash near it, and inspect inside for corrosion or water.</li>
+</ul>
+
+
+<h2 id="help">8. When to Call for Help</h2>
+
+<p>The ACU itself may be faulty if the problem persists even though:</p>
+
+<ul>
+  <li>voltage at the terminals is correct under load,</li>
+  <li>the network is correctly powered and terminated, and</li>
+  <li>the drive runs when tested on its own.</li>
+</ul>
+
+<p>The unit has no user-serviceable parts. Before contacting Raymarine support or a certified dealer, have ready: product name, product ID, serial number, software version, and a system diagram.</p>
+
+
+<h2 id="sources">Sources</h2>
+
+<ul>
+  <li><a href="https://ca.binnacle.com/pdf/Evolution%20EV-1%20and%20ACU%20Installation%20Instructions.pdf">Raymarine Evolution EV-1, ACU-100/200/300/400 Installation Instructions (87180)</a></li>
+  <li><a href="https://www.trawlerforum.com/threads/raymarine-experts-acu400-comm-problem.75747/">Trawler Forum — ACU400 communication problem</a></li>
+  <li><a href="https://www.trawlerforum.com/threads/raymarine-autopilot-issue.56640/">Trawler Forum — Raymarine autopilot issue</a></li>
+  <li><a href="https://www.raymarine.com">Raymarine support</a></li>
+</ul>
+
+</body>
+</html>
