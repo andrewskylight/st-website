@@ -27,7 +27,7 @@
 ✅ Sunbrella: repair fabric & zippers
 
 ### Bertha:
-    - Posses: Trampoline
+    - Possess: Trampoline
     - To give: white cushions, trampoline as the original is repaired 
 
 ## CAPTURE (prioritized)📋:
@@ -55,7 +55,6 @@
 ✅ Autopilot: Isolate the failed component (Carlos)
 ✅ Kitchen utensils cleaned (Yordano)
 ✅ Trim up sail so it does not damage the Sunbrella
-✅ Install edge washers on engine mounts (larger bolt that engine sits on) 9/1/26
 ✅ Install edge washers on engine mounts (larger bolt that engine sits on) 9/1/26
 ✅ Anode on hot water tank 9/1/26
 ✅ Hull repair: Port Bow Side ... damage from Pig Lovers dock
