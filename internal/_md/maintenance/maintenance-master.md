@@ -6,22 +6,24 @@
 
 ## CURRENT ITEMS🔧:
 - Fix EPIRB device with new batteries
-- Autopilot: rule out rudder sensor (Carlos)
-- Install SyncThing on tablet (for music sync)
 - Redo green labels for room numbers & compartments
 - Bring diving tanks back to PHX (@Dave, @Andrew)
 
+## Parts List
+- Filters, oil?
+- Those water reducers
+- Those cabinet hinges
+
 ## NO TOUR DAY⛵:
-- Wash the bottom of the boat
-- 🎛️ Add control wiring for bilge pumps
-    - Finalize
-    - ✅ wires added but not connected
 - 💧 Repair water tank; Reinforce weak points
 - Windows R3, R4 - reseal; they are leaking
 
+## Florida:
+- Resolve waste tank issues on starboard side
+
 ## UPHOLSTERY (Bertha)☂️:
 - Shoe Bag (in progress)
-- Give **trampoline** to Bertha for repairs
+g- Give **trampoline** to Bertha for repairs
 - Repair white cushions on the roof
   
 ✅ Sunbrella: repair fabric & zippers
@@ -35,24 +37,24 @@
 - Storage bins on the side of the hulls (white)
 - Carpentry: close top of the bar area (winches, old air conditioner)
 
-## Parts List
-- Filters, oil?
-- Those water reducers
-- Those cabinet hinges
-
 ## WAITING FOR PARTS⏳:
 - Change three way switch near the fresh water pump
 - Install shutoff valve on A/C seawater through hull input (requires reductor; get more details from Carlos)
 
 ## IDEAS💡:
+- Water leak sensor ... a la floating switch
 
 ## RESTOCK PARTS (Andrew):
 - Anode & thermostat for hot water tank
 
 ## Recently repaired:
-✅ Check Air Conditioner current draw (start with Room 4)
+✅ Change fire alarms batteries
+✅ Add control wiring for bilge pumps 2026-09-20
+✅ Install SyncThing on tablet (for music sync) 2026-09-20
+✅ Wash bottom of the boat 2026-09-20
+✅ Check Air Conditioner current draw (start with Room 4); 2026-09-18
+✅ Autopilot: Isolate the failed component, check rudder sensor, clean ACU400 2026-09-20
 ✅ Repair Buggy Wheel (Luis)
-✅ Autopilot: Isolate the failed component (Carlos)
 ✅ Kitchen utensils cleaned (Yordano)
 ✅ Trim up sail so it does not damage the Sunbrella
 ✅ Install edge washers on engine mounts (larger bolt that engine sits on) 9/1/26
