@@ -23,7 +23,7 @@
 
 ## UPHOLSTERY (Bertha)☂️:
 - Shoe Bag (in progress)
-g- Give **trampoline** to Bertha for repairs
+- Give **trampoline** to Bertha for repairs
 - Repair white cushions on the roof
   
 ✅ Sunbrella: repair fabric & zippers
