@@ -5,6 +5,7 @@
 - Air Conditioner seawater input for leaks
 
 ## CURRENT ITEMS🔧:
+- Clean red fender and starboard stern of the boat
 - Redo green labels for room numbers & compartments
 - Bring diving tanks back to PHX (@Dave, @Andrew)
 
@@ -14,20 +15,14 @@
 ## NO TOUR DAY⛵:
 - 💧 Repair water tank; Reinforce weak points
 - Windows R3, R4 - reseal; they are leaking
-
-## Research / Florida:
 - Resolve waste tank issues on starboard side
 
 ## UPHOLSTERY (Bertha)☂️:
-- Shoe Bag (in progress)
 - Give **trampoline** No 2 (starboard side) to Bertha for repairs (when the current trampoline is ready)
-- Repair white cushions on the roof
-  
-✅ Sunbrella: repair fabric & zippers
 
-### Bertha:
-    - Possess: Trampoline
-    - To give: white cushions, trampoline as the original is repaired 
+### With Bertha:
+    - Trampoline No 1
+    - Shoe bag
 
 ## CAPTURE (prioritized)📋:
 - Compartment M2 - possible water intrusion again :(
@@ -47,6 +42,9 @@
 - Anode & thermostat for hot water tank
 
 ## Recently repaired:
+- Update fire extinguishers 2026-09-24
+- White Cushions for the front top 2026-09-26 (by Bertha)
+- Sunbrella: repair fabric & zippers (by Bertha)
 - Port SD1 shifting without cables 2026-09-23
 - Bow Port Boat's Body 2026-09-23
 - Engine Water Filter 2026-09-23
