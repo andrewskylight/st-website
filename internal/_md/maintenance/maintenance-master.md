@@ -5,12 +5,12 @@
 - Air Conditioner seawater input for leaks
 
 ## CURRENT ITEMS🔧:
+- Confirm new alternator belts are the correct size
+
 - Clean red fender and starboard stern of the boat
 - Redo green labels for room numbers & compartments
 - Bring diving tanks back to PHX (@Dave, @Andrew)
 
-## Parts List
-- Those cabinet hinges
 
 ## NO TOUR DAY⛵:
 - 💧 Repair water tank; Reinforce weak points
@@ -30,6 +30,7 @@
 - Carpentry: close top of the bar area (winches, old air conditioner)
 
 ## WAITING FOR PARTS⏳:
+- LR44 hatch
 - Change three way switch near the fresh water pump
 - Install shutoff valve on A/C seawater through hull input (requires reductor; get more details from Carlos)
 
@@ -37,11 +38,12 @@
 - Water leak sensor ... a la floating switch
 
 ## RESTOCK PARTS (Andrew):
-- Fuel Filters (x2 oil changes)
 - various 3/4 to 1/2 reducers adapters etc.
 - Anode & thermostat for hot water tank
 
 ## Recently repaired:
+- Install fuel filters when they arrive 2026-10-10
+- C14 supports 2026-10-09
 - Update fire extinguishers 2026-09-24
 - White Cushions for the front top 2026-09-26 (by Bertha)
 - Sunbrella: repair fabric & zippers (by Bertha)
