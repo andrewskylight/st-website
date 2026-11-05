@@ -5,28 +5,32 @@
 
 ## CURRENT ITEMS🔧:
 - Confirm new alternator belts are the correct size
-- Clean red fender and starboard stern of the boat
+- R4 Main hatch - replace
+- R4 Shower hatch - reinforce
+- Trouble shoot air conditioner in R3
+- Remove sample door hinges (two types)
 - Redo green labels for room numbers & compartments
+- Add anti slip (transparent) to black floor inserts
+- Figure out space to store dive tanks
+- Window R4 seal outside; only inside was done
 - Bring diving tanks back to PHX (@Dave, @Andrew)
+- Discuss visual clean up of repairs of port-bow hull with Mayker
 
 ## NO TOUR DAY⛵:
 - 💧 Repair water tank; Reinforce weak points
-- Window R4 seal outside; only inside was done
-- Resolve waste tank issues on starboard side
+
 
 ## UPHOLSTERY (Bertha)☂️:
 - Give **trampoline** No 2 (starboard side) to Bertha for repairs (when the current trampoline is ready)
 
 ### With Bertha:
     - Trampoline No 1
-    - Shoe bag
 
 ## CAPTURE (prioritized)📋:
 - Compartment M2 - possible water intrusion again :(
-- Storage bins on the side of the hulls (white)
 
 ## WAITING FOR PARTS⏳:
-- LR44 hatch
+
 - Change three way switch near the fresh water pump
 - Install shutoff valve on A/C seawater through hull input (requires reductor; get more details from Carlos)
 - Window R4 seal outside; only inside was done
