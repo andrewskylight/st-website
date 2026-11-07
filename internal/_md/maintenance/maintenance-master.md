@@ -4,17 +4,17 @@
 - Air Conditioner seawater input for leaks
 
 ## CURRENT ITEMS🔧:
-- Confirm new alternator belts are the correct size
-- R4 Main hatch - replace
+- Wash the bottom of the boat
+- Investigate vibration at 2000 RPM (approx) port side (side 1); propeller is suspect
 - R4 Shower hatch - reinforce
-- Trouble shoot air conditioner in R3
+- Trouble shoot air conditioner in R3 (maybe mother board)
 - Remove sample door hinges (two types)
+- Discuss visual clean up of repairs of port-bow hull with Mayker
 - Redo green labels for room numbers & compartments
 - Add anti slip (transparent) to black floor inserts
-- Figure out space to store dive tanks
+- Figure out space to store dive tanks (discussion)
 - Window R4 seal outside; only inside was done
 - Bring diving tanks back to PHX (@Dave, @Andrew)
-- Discuss visual clean up of repairs of port-bow hull with Mayker
 
 ## NO TOUR DAY⛵:
 - 💧 Repair water tank; Reinforce weak points
@@ -35,6 +35,7 @@
 - Install shutoff valve on A/C seawater through hull input (requires reductor; get more details from Carlos)
 - Window R4 seal outside; only inside was done
 - Gas burner valve
+- R4 Main hatch - frame
 
 ## IDEAS💡:
 - Water leak sensor ... a la floating switch
@@ -44,6 +45,9 @@
 - Anode & thermostat for hot water tank
 
 ## Recently repaired:
+- Confirm new alternator belts are the correct size 2026-11-06
+- Add antislip to R4 main hatch 2026-11-06
+- Redo black floor inserts to minimize movement 2026-11-05
 - Close top of the ceiling above bar area (former A/C) 2026-10-26
 - Troubleshoot gas burner on the main boat stove 2026-10-24
 - Window R4 resealed inside (need parts for outside) 2026-10-21
